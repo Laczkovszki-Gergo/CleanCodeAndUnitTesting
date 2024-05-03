@@ -1,0 +1,1664 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<results>
+  <modules>
+    <module block_coverage="81.54" line_coverage="93.88" blocks_covered="1745" blocks_not_covered="395" lines_covered="751" lines_partially_covered="3" lines_not_covered="46" name="week06finalassessment.exe" path="week06finalassessment.exe" id="275D769ADE1BE042A6A1DFFB34D3355001000000">
+      <functions>
+        <function block_coverage="0.00" line_coverage="0.00" blocks_covered="0" blocks_not_covered="1" lines_covered="0" lines_partially_covered="0" lines_not_covered="2" id="8338" token="0x6000005" name="Main(string[])" namespace="Week06FinalAssessment" type_name="Program">
+          <ranges>
+            <range source_id="0" covered="no" start_line="12" start_column="9" end_line="12" end_column="10" />
+            <range source_id="0" covered="no" start_line="13" start_column="9" end_line="13" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="21" blocks_not_covered="0" lines_covered="12" lines_partially_covered="0" lines_not_covered="0" id="8352" token="0x6000007" name="Setup()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="62" start_column="9" end_line="62" end_column="10" />
+            <range source_id="1" covered="yes" start_line="63" start_column="13" end_line="63" end_column="66" />
+            <range source_id="1" covered="yes" start_line="64" start_column="13" end_line="64" end_column="62" />
+            <range source_id="1" covered="yes" start_line="65" start_column="13" end_line="65" end_column="72" />
+            <range source_id="1" covered="yes" start_line="67" start_column="13" end_line="67" end_column="47" />
+            <range source_id="1" covered="yes" start_line="68" start_column="13" end_line="68" end_column="49" />
+            <range source_id="1" covered="yes" start_line="69" start_column="13" end_line="69" end_column="45" />
+            <range source_id="1" covered="yes" start_line="70" start_column="13" end_line="70" end_column="63" />
+            <range source_id="1" covered="yes" start_line="72" start_column="13" end_line="72" end_column="139" />
+            <range source_id="1" covered="yes" start_line="73" start_column="13" end_line="73" end_column="169" />
+            <range source_id="1" covered="yes" start_line="74" start_column="13" end_line="74" end_column="142" />
+            <range source_id="1" covered="yes" start_line="75" start_column="9" end_line="75" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="2" lines_partially_covered="0" lines_not_covered="0" id="9060" token="0x600000f" name="CourseServiceTest()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="41" start_column="9" end_line="41" end_column="67" />
+            <range source_id="1" covered="yes" start_line="42" start_column="9" end_line="42" end_column="61" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="9168" token="0x6000011" name="CourseServiceTest()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="51" start_column="9" end_line="51" end_column="52" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="12" blocks_not_covered="0" lines_covered="7" lines_partially_covered="0" lines_not_covered="0" id="9188" token="0x6000012" name="Setup()" namespace="Week06FinalAssessment.Test.PaymentServiceTest" type_name="PaymentServiceTests">
+          <ranges>
+            <range source_id="2" covered="yes" start_line="27" start_column="9" end_line="27" end_column="10" />
+            <range source_id="2" covered="yes" start_line="28" start_column="13" end_line="28" end_column="70" />
+            <range source_id="2" covered="yes" start_line="29" start_column="13" end_line="29" end_column="49" />
+            <range source_id="2" covered="yes" start_line="30" start_column="13" end_line="30" end_column="80" />
+            <range source_id="2" covered="yes" start_line="31" start_column="13" end_line="31" end_column="119" />
+            <range source_id="2" covered="yes" start_line="32" start_column="13" end_line="32" end_column="93" />
+            <range source_id="2" covered="yes" start_line="33" start_column="9" end_line="33" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="9" blocks_not_covered="0" lines_covered="6" lines_partially_covered="0" lines_not_covered="0" id="9616" token="0x6000018" name="Setup()" namespace="Week06FinalAssessment.Test.NotificationServiceTests" type_name="NotificationServiceTest">
+          <ranges>
+            <range source_id="3" covered="yes" start_line="26" start_column="9" end_line="26" end_column="10" />
+            <range source_id="3" covered="yes" start_line="27" start_column="13" end_line="27" end_column="58" />
+            <range source_id="3" covered="yes" start_line="28" start_column="13" end_line="28" end_column="69" />
+            <range source_id="3" covered="yes" start_line="29" start_column="13" end_line="29" end_column="121" />
+            <range source_id="3" covered="yes" start_line="30" start_column="13" end_line="30" end_column="75" />
+            <range source_id="3" covered="yes" start_line="31" start_column="9" end_line="31" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="11" blocks_not_covered="0" lines_covered="7" lines_partially_covered="0" lines_not_covered="0" id="10060" token="0x600001f" name="Setup()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="28" start_column="9" end_line="28" end_column="10" />
+            <range source_id="4" covered="yes" start_line="29" start_column="13" end_line="29" end_column="50" />
+            <range source_id="4" covered="yes" start_line="30" start_column="13" end_line="30" end_column="49" />
+            <range source_id="4" covered="yes" start_line="31" start_column="13" end_line="31" end_column="47" />
+            <range source_id="4" covered="yes" start_line="33" start_column="13" end_line="33" end_column="74" />
+            <range source_id="4" covered="yes" start_line="34" start_column="13" end_line="34" end_column="127" />
+            <range source_id="4" covered="yes" start_line="35" start_column="9" end_line="35" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="14" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="10376" token="0x6000023" name="GetCourseByName_NonExistingCourse_ThrowsException()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="78" start_column="9" end_line="78" end_column="10" />
+            <range source_id="4" covered="yes" start_line="80" start_column="13" end_line="80" end_column="121" />
+            <range source_id="4" covered="yes" start_line="83" start_column="13" end_line="83" end_column="126" />
+            <range source_id="4" covered="yes" start_line="84" start_column="9" end_line="84" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="17" blocks_not_covered="0" lines_covered="6" lines_partially_covered="0" lines_not_covered="0" id="10616" token="0x6000025" name="GetCourseStatistics_ExistingCourse_ReturnsCourseStatistic()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="106" start_column="9" end_line="106" end_column="10" />
+            <range source_id="4" covered="yes" start_line="108" start_column="13" end_line="108" end_column="65" />
+            <range source_id="4" covered="yes" start_line="109" start_column="13" end_line="109" end_column="89" />
+            <range source_id="4" covered="yes" start_line="112" start_column="13" end_line="112" end_column="87" />
+            <range source_id="4" covered="yes" start_line="115" start_column="13" end_line="115" end_column="116" />
+            <range source_id="4" covered="yes" start_line="116" start_column="9" end_line="116" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="13" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="10800" token="0x6000026" name="GetCourseStatistics_NonExistingCourse_ThrowsException()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="120" start_column="9" end_line="120" end_column="10" />
+            <range source_id="4" covered="yes" start_line="122" start_column="13" end_line="122" end_column="103" />
+            <range source_id="4" covered="yes" start_line="125" start_column="13" end_line="125" end_column="130" />
+            <range source_id="4" covered="yes" start_line="126" start_column="9" end_line="126" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="10951" token="0x6000028" name="&lt;GetCourseByName_NonExistingCourse_ThrowsException&gt;b__10_1()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="83" start_column="72" end_line="83" end_column="124" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="10969" token="0x6000029" name="&lt;GetCourseStatistics_NonExistingCourse_ThrowsException&gt;b__13_1()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="125" start_column="72" end_line="125" end_column="128" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="6" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="10987" token="0x600002a" name="Setup()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseStatisticTest">
+          <ranges>
+            <range source_id="5" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+            <range source_id="5" covered="yes" start_line="22" start_column="13" end_line="22" end_column="49" />
+            <range source_id="5" covered="yes" start_line="23" start_column="13" end_line="23" end_column="93" />
+            <range source_id="5" covered="yes" start_line="24" start_column="9" end_line="24" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="17" blocks_not_covered="0" lines_covered="10" lines_partially_covered="0" lines_not_covered="0" id="11048" token="0x600002b" name="CourseStatistic_Constructor_CreatesInstanceWithCorrectValues(int, double)" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseStatisticTest">
+          <ranges>
+            <range source_id="5" covered="yes" start_line="33" start_column="9" end_line="33" end_column="10" />
+            <range source_id="5" covered="yes" start_line="35" start_column="13" end_line="35" end_column="168" />
+            <range source_id="5" covered="yes" start_line="36" start_column="13" end_line="36" end_column="58" />
+            <range source_id="5" covered="yes" start_line="39" start_column="18" end_line="39" end_column="27" />
+            <range source_id="5" covered="yes" start_line="39" start_column="29" end_line="39" end_column="49" />
+            <range source_id="5" covered="yes" start_line="39" start_column="51" end_line="39" end_column="54" />
+            <range source_id="5" covered="yes" start_line="40" start_column="13" end_line="40" end_column="14" />
+            <range source_id="5" covered="yes" start_line="41" start_column="17" end_line="41" end_column="42" />
+            <range source_id="5" covered="yes" start_line="42" start_column="13" end_line="42" end_column="14" />
+            <range source_id="5" covered="yes" start_line="43" start_column="13" end_line="43" end_column="63" />
+            <range source_id="5" covered="yes" start_line="46" start_column="13" end_line="46" end_column="92" />
+            <range source_id="5" covered="yes" start_line="47" start_column="9" end_line="47" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="9" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="11264" token="0x600002d" name="Setup()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseTest">
+          <ranges>
+            <range source_id="6" covered="yes" start_line="26" start_column="9" end_line="26" end_column="10" />
+            <range source_id="6" covered="yes" start_line="27" start_column="13" end_line="27" end_column="124" />
+            <range source_id="6" covered="yes" start_line="28" start_column="13" end_line="28" end_column="78" />
+            <range source_id="6" covered="yes" start_line="29" start_column="13" end_line="29" end_column="132" />
+            <range source_id="6" covered="yes" start_line="30" start_column="9" end_line="30" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="0.00" line_coverage="0.00" blocks_covered="0" blocks_not_covered="5" lines_covered="0" lines_partially_covered="0" lines_not_covered="4" id="11409" token="0x600002e" name="AddStudent_StudentAddedSuccessfully()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseTest">
+          <ranges>
+            <range source_id="6" covered="no" start_line="32" start_column="9" end_line="32" end_column="10" />
+            <range source_id="6" covered="no" start_line="36" start_column="13" end_line="36" end_column="40" />
+            <range source_id="6" covered="no" start_line="39" start_column="13" end_line="39" end_column="74" />
+            <range source_id="6" covered="no" start_line="40" start_column="9" end_line="40" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="11460" token="0x600002f" name="GetCourseName_ValidCourse_ReturnsCourseName()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseTest">
+          <ranges>
+            <range source_id="6" covered="yes" start_line="44" start_column="9" end_line="44" end_column="10" />
+            <range source_id="6" covered="yes" start_line="48" start_column="13" end_line="48" end_column="49" />
+            <range source_id="6" covered="yes" start_line="51" start_column="13" end_line="51" end_column="56" />
+            <range source_id="6" covered="yes" start_line="52" start_column="9" end_line="52" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="11500" token="0x6000030" name="GetStudentsCountOfCourse_NoStudents_ReturnsZero()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseTest">
+          <ranges>
+            <range source_id="6" covered="yes" start_line="56" start_column="9" end_line="56" end_column="10" />
+            <range source_id="6" covered="yes" start_line="60" start_column="13" end_line="60" end_column="60" />
+            <range source_id="6" covered="yes" start_line="63" start_column="13" end_line="63" end_column="40" />
+            <range source_id="6" covered="yes" start_line="64" start_column="9" end_line="64" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="7" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="11536" token="0x6000031" name="GetStudentsCountOfCourse_OneStudent_ReturnsOne()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseTest">
+          <ranges>
+            <range source_id="6" covered="yes" start_line="68" start_column="9" end_line="68" end_column="10" />
+            <range source_id="6" covered="yes" start_line="70" start_column="13" end_line="70" end_column="141" />
+            <range source_id="6" covered="yes" start_line="73" start_column="13" end_line="73" end_column="60" />
+            <range source_id="6" covered="yes" start_line="76" start_column="13" end_line="76" end_column="47" />
+            <range source_id="6" covered="yes" start_line="77" start_column="9" end_line="77" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="10" blocks_not_covered="0" lines_covered="10" lines_partially_covered="0" lines_not_covered="0" id="11636" token="0x6000032" name="GetProgress_VariousLectureCompletion_ReturnsCorrectPercentage(int, int)" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseTest">
+          <ranges>
+            <range source_id="6" covered="yes" start_line="84" start_column="9" end_line="84" end_column="10" />
+            <range source_id="6" covered="yes" start_line="86" start_column="13" end_line="86" end_column="94" />
+            <range source_id="6" covered="yes" start_line="87" start_column="18" end_line="87" end_column="27" />
+            <range source_id="6" covered="yes" start_line="87" start_column="29" end_line="87" end_column="50" />
+            <range source_id="6" covered="yes" start_line="87" start_column="52" end_line="87" end_column="55" />
+            <range source_id="6" covered="yes" start_line="88" start_column="13" end_line="88" end_column="14" />
+            <range source_id="6" covered="yes" start_line="89" start_column="17" end_line="89" end_column="42" />
+            <range source_id="6" covered="yes" start_line="90" start_column="13" end_line="90" end_column="14" />
+            <range source_id="6" covered="yes" start_line="93" start_column="13" end_line="93" end_column="95" />
+            <range source_id="6" covered="yes" start_line="96" start_column="13" end_line="96" end_column="47" />
+            <range source_id="6" covered="yes" start_line="99" start_column="13" end_line="99" end_column="62" />
+            <range source_id="6" covered="yes" start_line="100" start_column="9" end_line="100" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="11752" token="0x6000033" name="GetCompletedLecturesCount_NoCompletedLectures_ReturnsZero()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseTest">
+          <ranges>
+            <range source_id="6" covered="yes" start_line="103" start_column="9" end_line="103" end_column="10" />
+            <range source_id="6" covered="yes" start_line="107" start_column="13" end_line="107" end_column="62" />
+            <range source_id="6" covered="yes" start_line="110" start_column="13" end_line="110" end_column="40" />
+            <range source_id="6" covered="yes" start_line="111" start_column="9" end_line="111" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="7" blocks_not_covered="0" lines_covered="9" lines_partially_covered="0" lines_not_covered="0" id="11788" token="0x6000034" name="GetCompletedLecturesCount_SomeCompletedLectures_ReturnsCorrectCount()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="CourseTest">
+          <ranges>
+            <range source_id="6" covered="yes" start_line="114" start_column="9" end_line="114" end_column="10" />
+            <range source_id="6" covered="yes" start_line="116" start_column="13" end_line="116" end_column="47" />
+            <range source_id="6" covered="yes" start_line="117" start_column="18" end_line="117" end_column="27" />
+            <range source_id="6" covered="yes" start_line="117" start_column="29" end_line="117" end_column="58" />
+            <range source_id="6" covered="yes" start_line="117" start_column="60" end_line="117" end_column="63" />
+            <range source_id="6" covered="yes" start_line="118" start_column="13" end_line="118" end_column="14" />
+            <range source_id="6" covered="yes" start_line="119" start_column="17" end_line="119" end_column="42" />
+            <range source_id="6" covered="yes" start_line="120" start_column="13" end_line="120" end_column="14" />
+            <range source_id="6" covered="yes" start_line="123" start_column="13" end_line="123" end_column="62" />
+            <range source_id="6" covered="yes" start_line="126" start_column="13" end_line="126" end_column="71" />
+            <range source_id="6" covered="yes" start_line="127" start_column="9" end_line="127" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="11873" token="0x6000036" name="SetUp()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="LecturerTest">
+          <ranges>
+            <range source_id="7" covered="yes" start_line="27" start_column="9" end_line="27" end_column="10" />
+            <range source_id="7" covered="yes" start_line="28" start_column="13" end_line="28" end_column="93" />
+            <range source_id="7" covered="yes" start_line="29" start_column="9" end_line="29" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="11" blocks_not_covered="0" lines_covered="7" lines_partially_covered="0" lines_not_covered="0" id="11912" token="0x6000037" name="Constructor_ValidArguments_PropertiesSetCorrectly()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="LecturerTest">
+          <ranges>
+            <range source_id="7" covered="yes" start_line="32" start_column="9" end_line="32" end_column="10" />
+            <range source_id="7" covered="yes" start_line="39" start_column="13" end_line="39" end_column="70" />
+            <range source_id="7" covered="yes" start_line="40" start_column="13" end_line="40" end_column="72" />
+            <range source_id="7" covered="yes" start_line="41" start_column="13" end_line="41" end_column="68" />
+            <range source_id="7" covered="yes" start_line="42" start_column="13" end_line="42" end_column="78" />
+            <range source_id="7" covered="yes" start_line="43" start_column="13" end_line="43" end_column="74" />
+            <range source_id="7" covered="yes" start_line="44" start_column="9" end_line="44" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="12048" token="0x6000038" name="GetLecturerNo_InitializedWithConstructor_ReturnsCorrectValue()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="LecturerTest">
+          <ranges>
+            <range source_id="7" covered="yes" start_line="48" start_column="9" end_line="48" end_column="10" />
+            <range source_id="7" covered="yes" start_line="52" start_column="13" end_line="52" end_column="51" />
+            <range source_id="7" covered="yes" start_line="55" start_column="13" end_line="55" end_column="56" />
+            <range source_id="7" covered="yes" start_line="56" start_column="9" end_line="56" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="12088" token="0x6000039" name="GetLecturerNo_DefaultConstructor_ReturnsNull()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="LecturerTest">
+          <ranges>
+            <range source_id="7" covered="yes" start_line="60" start_column="9" end_line="60" end_column="10" />
+            <range source_id="7" covered="yes" start_line="62" start_column="13" end_line="62" end_column="43" />
+            <range source_id="7" covered="yes" start_line="65" start_column="13" end_line="65" end_column="51" />
+            <range source_id="7" covered="yes" start_line="68" start_column="13" end_line="68" end_column="42" />
+            <range source_id="7" covered="yes" start_line="69" start_column="9" end_line="69" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="12131" token="0x600003b" name="LecturerTest()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="LecturerTest">
+          <ranges>
+            <range source_id="7" covered="yes" start_line="18" start_column="9" end_line="18" end_column="62" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="6" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="12152" token="0x600003c" name="SetUp()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentManagerTest">
+          <ranges>
+            <range source_id="8" covered="yes" start_line="29" start_column="9" end_line="29" end_column="10" />
+            <range source_id="8" covered="yes" start_line="30" start_column="13" end_line="30" end_column="110" />
+            <range source_id="8" covered="yes" start_line="31" start_column="13" end_line="31" end_column="134" />
+            <range source_id="8" covered="yes" start_line="33" start_column="13" end_line="33" end_column="51" />
+            <range source_id="8" covered="yes" start_line="34" start_column="9" end_line="34" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="12266" token="0x600003d" name="AddStudent_StudentAddedSuccessfully()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentManagerTest">
+          <ranges>
+            <range source_id="8" covered="yes" start_line="38" start_column="9" end_line="38" end_column="10" />
+            <range source_id="8" covered="yes" start_line="42" start_column="13" end_line="42" end_column="48" />
+            <range source_id="8" covered="yes" start_line="45" start_column="13" end_line="45" end_column="74" />
+            <range source_id="8" covered="yes" start_line="46" start_column="9" end_line="46" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="12316" token="0x600003e" name="GetStudentsCount_NoStudents_ReturnsZero()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentManagerTest">
+          <ranges>
+            <range source_id="8" covered="yes" start_line="50" start_column="9" end_line="50" end_column="10" />
+            <range source_id="8" covered="yes" start_line="54" start_column="13" end_line="54" end_column="60" />
+            <range source_id="8" covered="yes" start_line="57" start_column="13" end_line="57" end_column="40" />
+            <range source_id="8" covered="yes" start_line="58" start_column="9" end_line="58" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="12352" token="0x600003f" name="GetStudentsCount_OneStudent_ReturnsOne()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentManagerTest">
+          <ranges>
+            <range source_id="8" covered="yes" start_line="62" start_column="9" end_line="62" end_column="10" />
+            <range source_id="8" covered="yes" start_line="64" start_column="13" end_line="64" end_column="48" />
+            <range source_id="8" covered="yes" start_line="67" start_column="13" end_line="67" end_column="60" />
+            <range source_id="8" covered="yes" start_line="70" start_column="13" end_line="70" end_column="47" />
+            <range source_id="8" covered="yes" start_line="71" start_column="9" end_line="71" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="8" blocks_not_covered="0" lines_covered="8" lines_partially_covered="0" lines_not_covered="0" id="12416" token="0x6000040" name="GetStudents_ReturnsListOfStudents()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentManagerTest">
+          <ranges>
+            <range source_id="8" covered="yes" start_line="75" start_column="9" end_line="75" end_column="10" />
+            <range source_id="8" covered="yes" start_line="77" start_column="13" end_line="77" end_column="48" />
+            <range source_id="8" covered="yes" start_line="78" start_column="13" end_line="78" end_column="49" />
+            <range source_id="8" covered="yes" start_line="81" start_column="13" end_line="81" end_column="55" />
+            <range source_id="8" covered="yes" start_line="84" start_column="13" end_line="84" end_column="53" />
+            <range source_id="8" covered="yes" start_line="85" start_column="13" end_line="85" end_column="53" />
+            <range source_id="8" covered="yes" start_line="86" start_column="13" end_line="86" end_column="54" />
+            <range source_id="8" covered="yes" start_line="87" start_column="9" end_line="87" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="2" lines_partially_covered="0" lines_not_covered="0" id="12536" token="0x6000042" name="StudentManagerTest()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentManagerTest">
+          <ranges>
+            <range source_id="8" covered="yes" start_line="16" start_column="9" end_line="16" end_column="62" />
+            <range source_id="8" covered="yes" start_line="21" start_column="9" end_line="21" end_column="73" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="12574" token="0x6000043" name="SetUp()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentTest">
+          <ranges>
+            <range source_id="9" covered="yes" start_line="26" start_column="9" end_line="26" end_column="10" />
+            <range source_id="9" covered="yes" start_line="27" start_column="13" end_line="27" end_column="110" />
+            <range source_id="9" covered="yes" start_line="28" start_column="9" end_line="28" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="13" blocks_not_covered="0" lines_covered="8" lines_partially_covered="0" lines_not_covered="0" id="12620" token="0x6000044" name="Constructor_ValidArguments_PropertiesSetCorrectly()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentTest">
+          <ranges>
+            <range source_id="9" covered="yes" start_line="32" start_column="9" end_line="32" end_column="10" />
+            <range source_id="9" covered="yes" start_line="38" start_column="13" end_line="38" end_column="69" />
+            <range source_id="9" covered="yes" start_line="39" start_column="13" end_line="39" end_column="71" />
+            <range source_id="9" covered="yes" start_line="40" start_column="13" end_line="40" end_column="67" />
+            <range source_id="9" covered="yes" start_line="41" start_column="13" end_line="41" end_column="77" />
+            <range source_id="9" covered="yes" start_line="42" start_column="13" end_line="42" end_column="71" />
+            <range source_id="9" covered="yes" start_line="43" start_column="13" end_line="43" end_column="87" />
+            <range source_id="9" covered="yes" start_line="44" start_column="9" end_line="44" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="12788" token="0x6000045" name="GetStudentNo_InitializedWithConstructor_ReturnsCorrectValue()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentTest">
+          <ranges>
+            <range source_id="9" covered="yes" start_line="48" start_column="9" end_line="48" end_column="10" />
+            <range source_id="9" covered="yes" start_line="52" start_column="13" end_line="52" end_column="49" />
+            <range source_id="9" covered="yes" start_line="55" start_column="13" end_line="55" end_column="55" />
+            <range source_id="9" covered="yes" start_line="56" start_column="9" end_line="56" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="12828" token="0x6000046" name="GetStudentNo_DefaultConstructor_ReturnsNull()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentTest">
+          <ranges>
+            <range source_id="9" covered="yes" start_line="60" start_column="9" end_line="60" end_column="10" />
+            <range source_id="9" covered="yes" start_line="62" start_column="13" end_line="62" end_column="41" />
+            <range source_id="9" covered="yes" start_line="65" start_column="13" end_line="65" end_column="49" />
+            <range source_id="9" covered="yes" start_line="68" start_column="13" end_line="68" end_column="42" />
+            <range source_id="9" covered="yes" start_line="69" start_column="9" end_line="69" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="12864" token="0x6000047" name="GetRegistrationDate_InitializedWithConstructor_ReturnsCorrectValue()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentTest">
+          <ranges>
+            <range source_id="9" covered="yes" start_line="73" start_column="9" end_line="73" end_column="10" />
+            <range source_id="9" covered="yes" start_line="77" start_column="13" end_line="77" end_column="56" />
+            <range source_id="9" covered="yes" start_line="80" start_column="13" end_line="80" end_column="64" />
+            <range source_id="9" covered="yes" start_line="81" start_column="9" end_line="81" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="12912" token="0x6000048" name="GetRegistrationDate_DefaultConstructor_ReturnsDefaultDateTime()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentTest">
+          <ranges>
+            <range source_id="9" covered="yes" start_line="85" start_column="9" end_line="85" end_column="10" />
+            <range source_id="9" covered="yes" start_line="87" start_column="13" end_line="87" end_column="41" />
+            <range source_id="9" covered="yes" start_line="90" start_column="13" end_line="90" end_column="56" />
+            <range source_id="9" covered="yes" start_line="93" start_column="13" end_line="93" end_column="63" />
+            <range source_id="9" covered="yes" start_line="94" start_column="9" end_line="94" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="2" lines_partially_covered="0" lines_not_covered="0" id="12974" token="0x600004a" name="StudentTest()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="StudentTest">
+          <ranges>
+            <range source_id="9" covered="yes" start_line="16" start_column="9" end_line="16" end_column="62" />
+            <range source_id="9" covered="yes" start_line="20" start_column="9" end_line="20" end_column="73" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="13012" token="0x600004b" name="SetUp()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="PersonTest">
+          <ranges>
+            <range source_id="10" covered="yes" start_line="28" start_column="9" end_line="28" end_column="10" />
+            <range source_id="10" covered="yes" start_line="29" start_column="13" end_line="29" end_column="93" />
+            <range source_id="10" covered="yes" start_line="30" start_column="13" end_line="30" end_column="108" />
+            <range source_id="10" covered="yes" start_line="31" start_column="9" end_line="31" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="13103" token="0x600004c" name="Student_ShouldInheritFromPerson()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="PersonTest">
+          <ranges>
+            <range source_id="10" covered="yes" start_line="35" start_column="9" end_line="35" end_column="10" />
+            <range source_id="10" covered="yes" start_line="39" start_column="13" end_line="39" end_column="57" />
+            <range source_id="10" covered="yes" start_line="40" start_column="9" end_line="40" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="13118" token="0x600004d" name="Lecturer_ShouldInheritFromPerson()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="PersonTest">
+          <ranges>
+            <range source_id="10" covered="yes" start_line="44" start_column="9" end_line="44" end_column="10" />
+            <range source_id="10" covered="yes" start_line="48" start_column="13" end_line="48" end_column="58" />
+            <range source_id="10" covered="yes" start_line="49" start_column="9" end_line="49" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="13" blocks_not_covered="0" lines_covered="7" lines_partially_covered="0" lines_not_covered="0" id="13136" token="0x600004e" name="Person_ShouldHaveBasicProperties()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="PersonTest">
+          <ranges>
+            <range source_id="10" covered="yes" start_line="53" start_column="9" end_line="53" end_column="10" />
+            <range source_id="10" covered="yes" start_line="55" start_column="13" end_line="55" end_column="135" />
+            <range source_id="10" covered="yes" start_line="57" start_column="13" end_line="57" end_column="70" />
+            <range source_id="10" covered="yes" start_line="58" start_column="13" end_line="58" end_column="85" />
+            <range source_id="10" covered="yes" start_line="59" start_column="13" end_line="59" end_column="72" />
+            <range source_id="10" covered="yes" start_line="60" start_column="13" end_line="60" end_column="82" />
+            <range source_id="10" covered="yes" start_line="61" start_column="9" end_line="61" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="2" lines_partially_covered="0" lines_not_covered="0" id="13287" token="0x6000050" name="PersonTest()" namespace="Week06FinalAssessment.Test.ModelTest" type_name="PersonTest">
+          <ranges>
+            <range source_id="10" covered="yes" start_line="16" start_column="9" end_line="16" end_column="62" />
+            <range source_id="10" covered="yes" start_line="21" start_column="9" end_line="21" end_column="73" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="13325" token="0x6000051" name="Setup()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="25" start_column="9" end_line="25" end_column="10" />
+            <range source_id="11" covered="yes" start_line="26" start_column="13" end_line="26" end_column="59" />
+            <range source_id="11" covered="yes" start_line="27" start_column="13" end_line="27" end_column="45" />
+            <range source_id="11" covered="yes" start_line="28" start_column="13" end_line="28" end_column="47" />
+            <range source_id="11" covered="yes" start_line="29" start_column="9" end_line="29" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="13500" token="0x6000054" name="CheckPaymentStatus_NullStudent_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="57" start_column="9" end_line="57" end_column="10" />
+            <range source_id="11" covered="yes" start_line="61" start_column="13" end_line="61" end_column="127" />
+            <range source_id="11" covered="yes" start_line="62" start_column="9" end_line="62" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="13521" token="0x6000055" name="CheckPaymentStatus_NullCourse_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="66" start_column="9" end_line="66" end_column="10" />
+            <range source_id="11" covered="yes" start_line="70" start_column="13" end_line="70" end_column="133" />
+            <range source_id="11" covered="yes" start_line="71" start_column="9" end_line="71" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="13542" token="0x6000056" name="PayForCourse_NullStudent_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="75" start_column="9" end_line="75" end_column="10" />
+            <range source_id="11" covered="yes" start_line="79" start_column="13" end_line="79" end_column="121" />
+            <range source_id="11" covered="yes" start_line="80" start_column="9" end_line="80" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="13563" token="0x6000057" name="PayForCourse_NullCourse_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="84" start_column="9" end_line="84" end_column="10" />
+            <range source_id="11" covered="yes" start_line="88" start_column="13" end_line="88" end_column="127" />
+            <range source_id="11" covered="yes" start_line="89" start_column="9" end_line="89" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="13593" token="0x6000059" name="&lt;CheckPaymentStatus_NullStudent_ThrowsArgumentNullException&gt;b__6_0()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="61" start_column="68" end_line="61" end_column="125" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="13612" token="0x600005a" name="&lt;CheckPaymentStatus_NullCourse_ThrowsArgumentNullException&gt;b__7_0()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="70" start_column="68" end_line="70" end_column="131" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="13637" token="0x600005b" name="&lt;PayForCourse_NullStudent_ThrowsArgumentNullException&gt;b__8_0()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="79" start_column="68" end_line="79" end_column="119" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="13656" token="0x600005c" name="&lt;PayForCourse_NullCourse_ThrowsArgumentNullException&gt;b__9_0()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="88" start_column="68" end_line="88" end_column="125" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="6" blocks_not_covered="0" lines_covered="7" lines_partially_covered="0" lines_not_covered="0" id="13681" token="0x600005d" name="Setup()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="29" start_column="9" end_line="29" end_column="10" />
+            <range source_id="12" covered="yes" start_line="30" start_column="13" end_line="30" end_column="50" />
+            <range source_id="12" covered="yes" start_line="31" start_column="13" end_line="31" end_column="46" />
+            <range source_id="12" covered="yes" start_line="32" start_column="13" end_line="32" end_column="46" />
+            <range source_id="12" covered="yes" start_line="33" start_column="13" end_line="33" end_column="49" />
+            <range source_id="12" covered="yes" start_line="35" start_column="13" end_line="35" end_column="39" />
+            <range source_id="12" covered="yes" start_line="36" start_column="9" end_line="36" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="14012" token="0x6000062" name="SaveCourse_NullCourse_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="93" start_column="9" end_line="93" end_column="10" />
+            <range source_id="12" covered="yes" start_line="95" start_column="13" end_line="95" end_column="38" />
+            <range source_id="12" covered="yes" start_line="98" start_column="13" end_line="98" end_column="101" />
+            <range source_id="12" covered="yes" start_line="99" start_column="9" end_line="99" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="14064" token="0x6000063" name="GetCourseByName_NullCourseName_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="103" start_column="9" end_line="103" end_column="10" />
+            <range source_id="12" covered="yes" start_line="105" start_column="13" end_line="105" end_column="42" />
+            <range source_id="12" covered="yes" start_line="108" start_column="13" end_line="108" end_column="110" />
+            <range source_id="12" covered="yes" start_line="109" start_column="9" end_line="109" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="14116" token="0x6000064" name="GetCourseByName_EmptyCourseName_ThrowsArgumentException()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="113" start_column="9" end_line="113" end_column="10" />
+            <range source_id="12" covered="yes" start_line="115" start_column="13" end_line="115" end_column="51" />
+            <range source_id="12" covered="yes" start_line="118" start_column="13" end_line="118" end_column="111" />
+            <range source_id="12" covered="yes" start_line="119" start_column="9" end_line="119" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="14521" token="0x600006b" name="Setup()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="EmailClientTest">
+          <ranges>
+            <range source_id="13" covered="yes" start_line="26" start_column="9" end_line="26" end_column="10" />
+            <range source_id="13" covered="yes" start_line="27" start_column="13" end_line="27" end_column="45" />
+            <range source_id="13" covered="yes" start_line="28" start_column="9" end_line="28" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="5" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="14604" token="0x600006d" name="SendNotification_NullNotificationMessage_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="EmailClientTest">
+          <ranges>
+            <range source_id="13" covered="yes" start_line="45" start_column="9" end_line="45" end_column="10" />
+            <range source_id="13" covered="yes" start_line="47" start_column="13" end_line="47" end_column="49" />
+            <range source_id="13" covered="yes" start_line="50" start_column="13" end_line="50" end_column="104" />
+            <range source_id="13" covered="yes" start_line="51" start_column="9" end_line="51" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="14656" token="0x600006e" name="SendNotification_EmptyNotificationMessage_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="EmailClientTest">
+          <ranges>
+            <range source_id="13" covered="yes" start_line="55" start_column="9" end_line="55" end_column="10" />
+            <range source_id="13" covered="yes" start_line="57" start_column="13" end_line="57" end_column="42" />
+            <range source_id="13" covered="yes" start_line="60" start_column="13" end_line="60" end_column="119" />
+            <range source_id="13" covered="yes" start_line="61" start_column="9" end_line="61" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="14712" token="0x600006f" name="EmailClientTest()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="EmailClientTest">
+          <ranges>
+            <range source_id="13" covered="yes" start_line="20" start_column="9" end_line="20" end_column="66" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="14732" token="0x6000070" name="&lt;SendNotification_ValidNotificationMessage_ConsoleOutputContainsMessage&gt;b__3_0(string)" namespace="Week06FinalAssessment.Test.ClientTest" type_name="EmailClientTest">
+          <ranges>
+            <range source_id="13" covered="yes" start_line="41" start_column="58" end_line="41" end_column="125" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="14756" token="0x6000071" name="Setup()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="25" start_column="9" end_line="25" end_column="10" />
+            <range source_id="14" covered="yes" start_line="26" start_column="13" end_line="26" end_column="67" />
+            <range source_id="14" covered="yes" start_line="27" start_column="9" end_line="27" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="14840" token="0x6000073" name="SendNotification_ExceptionThrown_PushNotificationSendingExceptionThrown()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="56" start_column="9" end_line="56" end_column="10" />
+            <range source_id="14" covered="yes" start_line="60" start_column="13" end_line="60" end_column="115" />
+            <range source_id="14" covered="yes" start_line="61" start_column="9" end_line="61" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="5" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="14932" token="0x6000075" name="SendNotification_NullNotificationMessage_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="82" start_column="9" end_line="82" end_column="10" />
+            <range source_id="14" covered="yes" start_line="84" start_column="13" end_line="84" end_column="71" />
+            <range source_id="14" covered="yes" start_line="85" start_column="13" end_line="85" end_column="47" />
+            <range source_id="14" covered="yes" start_line="88" start_column="13" end_line="88" end_column="130" />
+            <range source_id="14" covered="yes" start_line="89" start_column="9" end_line="89" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="5" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="14988" token="0x6000076" name="SendNotification_EmptyNotificationMessage_ThrowsArgumentNullException()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="93" start_column="9" end_line="93" end_column="10" />
+            <range source_id="14" covered="yes" start_line="95" start_column="13" end_line="95" end_column="71" />
+            <range source_id="14" covered="yes" start_line="96" start_column="13" end_line="96" end_column="42" />
+            <range source_id="14" covered="yes" start_line="99" start_column="13" end_line="99" end_column="130" />
+            <range source_id="14" covered="yes" start_line="100" start_column="9" end_line="100" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="15057" token="0x6000078" name="&lt;SendNotification_ExceptionThrown_PushNotificationSendingExceptionThrown&gt;b__3_0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="60" start_column="68" end_line="60" end_column="113" />
+          </ranges>
+        </function>
+        <function block_coverage="45.45" line_coverage="50.00" blocks_covered="5" blocks_not_covered="6" lines_covered="3" lines_partially_covered="3" lines_not_covered="0" id="15072" token="0x6000079" name="CourseService(Week06FinalAssessment.Source.Abstraction.Repository.ICourseRepository, Week06FinalAssessment.Source.Abstraction.Services.IPaymentService, Week06FinalAssessment.Source.Abstraction.Services.INotificationService)" namespace="Week06FinalAssessment.Source.Services" type_name="CourseService">
+          <ranges>
+            <range source_id="15" covered="yes" start_line="16" start_column="9" end_line="16" end_column="139" />
+            <range source_id="15" covered="yes" start_line="17" start_column="9" end_line="17" end_column="10" />
+            <range source_id="15" covered="partial" start_line="18" start_column="13" end_line="18" end_column="110" />
+            <range source_id="15" covered="partial" start_line="19" start_column="13" end_line="19" end_column="104" />
+            <range source_id="15" covered="partial" start_line="20" start_column="13" end_line="20" end_column="119" />
+            <range source_id="15" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="15539" token="0x600007f" name="NotificationService(System.Collections.Generic.IEnumerable&lt;Week06FinalAssessment.Source.Abstraction.Clients.IMessageClient&gt;)" namespace="Week06FinalAssessment.Source.Services" type_name="NotificationService">
+          <ranges>
+            <range source_id="16" covered="yes" start_line="15" start_column="9" end_line="15" end_column="79" />
+            <range source_id="16" covered="yes" start_line="16" start_column="9" end_line="16" end_column="10" />
+            <range source_id="16" covered="yes" start_line="17" start_column="13" end_line="17" end_column="59" />
+            <range source_id="16" covered="yes" start_line="18" start_column="9" end_line="18" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="15639" token="0x6000081" name="PaymentService(Week06FinalAssessment.Source.Abstraction.Clients.IFinancialApiClient)" namespace="Week06FinalAssessment.Source.Services" type_name="PaymentService">
+          <ranges>
+            <range source_id="17" covered="yes" start_line="16" start_column="9" end_line="16" end_column="70" />
+            <range source_id="17" covered="yes" start_line="17" start_column="9" end_line="17" end_column="10" />
+            <range source_id="17" covered="yes" start_line="18" start_column="13" end_line="18" end_column="58" />
+            <range source_id="17" covered="yes" start_line="19" start_column="9" end_line="19" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="15822" token="0x6000084" name="CourseRepository(Week06FinalAssessment.Source.Abstraction.Clients.IDbClient)" namespace="Week06FinalAssessment.Source.Repository" type_name="CourseRepository">
+          <ranges>
+            <range source_id="18" covered="yes" start_line="18" start_column="9" end_line="18" end_column="52" />
+            <range source_id="18" covered="yes" start_line="19" start_column="9" end_line="19" end_column="10" />
+            <range source_id="18" covered="yes" start_line="20" start_column="13" end_line="20" end_column="33" />
+            <range source_id="18" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="16219" token="0x600008a" name="Course()" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="20" start_column="9" end_line="20" end_column="24" />
+            <range source_id="19" covered="yes" start_line="20" start_column="25" end_line="20" end_column="26" />
+            <range source_id="19" covered="yes" start_line="20" start_column="27" end_line="20" end_column="28" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="11" lines_partially_covered="0" lines_not_covered="0" id="16232" token="0x600008b" name="Course(Week06FinalAssessment.Source.Models.Lecturer, string, System.DateTime, int, decimal)" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="22" start_column="9" end_line="22" end_column="117" />
+            <range source_id="19" covered="yes" start_line="23" start_column="9" end_line="23" end_column="10" />
+            <range source_id="19" covered="yes" start_line="24" start_column="13" end_line="24" end_column="33" />
+            <range source_id="19" covered="yes" start_line="25" start_column="13" end_line="25" end_column="37" />
+            <range source_id="19" covered="yes" start_line="26" start_column="13" end_line="26" end_column="35" />
+            <range source_id="19" covered="yes" start_line="27" start_column="13" end_line="27" end_column="43" />
+            <range source_id="19" covered="yes" start_line="28" start_column="13" end_line="28" end_column="35" />
+            <range source_id="19" covered="yes" start_line="29" start_column="13" end_line="29" end_column="35" />
+            <range source_id="19" covered="yes" start_line="30" start_column="13" end_line="30" end_column="35" />
+            <range source_id="19" covered="yes" start_line="31" start_column="13" end_line="31" end_column="51" />
+            <range source_id="19" covered="yes" start_line="32" start_column="9" end_line="32" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16320" token="0x600008c" name="AddStudent(Week06FinalAssessment.Source.Models.Student)" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="35" start_column="9" end_line="35" end_column="10" />
+            <range source_id="19" covered="yes" start_line="36" start_column="13" end_line="36" end_column="40" />
+            <range source_id="19" covered="yes" start_line="37" start_column="13" end_line="37" end_column="48" />
+            <range source_id="19" covered="yes" start_line="38" start_column="9" end_line="38" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16348" token="0x600008d" name="GetCourseName()" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="40" start_column="9" end_line="40" end_column="10" />
+            <range source_id="19" covered="yes" start_line="41" start_column="13" end_line="41" end_column="40" />
+            <range source_id="19" covered="yes" start_line="42" start_column="13" end_line="42" end_column="31" />
+            <range source_id="19" covered="yes" start_line="43" start_column="9" end_line="43" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16384" token="0x600008e" name="GetLenghtInWeeks()" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="45" start_column="9" end_line="45" end_column="10" />
+            <range source_id="19" covered="yes" start_line="46" start_column="13" end_line="46" end_column="40" />
+            <range source_id="19" covered="yes" start_line="47" start_column="13" end_line="47" end_column="34" />
+            <range source_id="19" covered="yes" start_line="48" start_column="9" end_line="48" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16420" token="0x600008f" name="GetStudentsCountOfCourse()" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="50" start_column="9" end_line="50" end_column="10" />
+            <range source_id="19" covered="yes" start_line="51" start_column="13" end_line="51" end_column="40" />
+            <range source_id="19" covered="yes" start_line="52" start_column="13" end_line="52" end_column="54" />
+            <range source_id="19" covered="yes" start_line="53" start_column="9" end_line="53" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16460" token="0x6000090" name="GetStudents()" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="55" start_column="9" end_line="55" end_column="10" />
+            <range source_id="19" covered="yes" start_line="56" start_column="13" end_line="56" end_column="40" />
+            <range source_id="19" covered="yes" start_line="57" start_column="13" end_line="57" end_column="49" />
+            <range source_id="19" covered="yes" start_line="58" start_column="9" end_line="58" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16500" token="0x6000091" name="GetCompledtedLecturesCount()" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="60" start_column="9" end_line="60" end_column="10" />
+            <range source_id="19" covered="yes" start_line="61" start_column="13" end_line="61" end_column="40" />
+            <range source_id="19" covered="yes" start_line="62" start_column="13" end_line="62" end_column="38" />
+            <range source_id="19" covered="yes" start_line="63" start_column="9" end_line="63" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16535" token="0x6000092" name="CompleteLecture()" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="65" start_column="9" end_line="65" end_column="10" />
+            <range source_id="19" covered="yes" start_line="66" start_column="13" end_line="66" end_column="40" />
+            <range source_id="19" covered="yes" start_line="67" start_column="13" end_line="67" end_column="33" />
+            <range source_id="19" covered="yes" start_line="68" start_column="9" end_line="68" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16564" token="0x6000093" name="GetProgress()" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="70" start_column="9" end_line="70" end_column="10" />
+            <range source_id="19" covered="yes" start_line="71" start_column="13" end_line="71" end_column="40" />
+            <range source_id="19" covered="yes" start_line="72" start_column="13" end_line="72" end_column="88" />
+            <range source_id="19" covered="yes" start_line="73" start_column="9" end_line="73" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="16620" token="0x6000094" name="GetLastAccesed()" namespace="Week06FinalAssessment.Source.Models" type_name="Course">
+          <ranges>
+            <range source_id="19" covered="yes" start_line="75" start_column="9" end_line="75" end_column="10" />
+            <range source_id="19" covered="yes" start_line="76" start_column="13" end_line="76" end_column="32" />
+            <range source_id="19" covered="yes" start_line="77" start_column="9" end_line="77" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="16644" token="0x6000095" name="CourseStatistic()" namespace="Week06FinalAssessment.Source.Models" type_name="CourseStatistic">
+          <ranges>
+            <range source_id="20" covered="yes" start_line="12" start_column="9" end_line="12" end_column="33" />
+            <range source_id="20" covered="yes" start_line="12" start_column="34" end_line="12" end_column="35" />
+            <range source_id="20" covered="yes" start_line="12" start_column="36" end_line="12" end_column="37" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16654" token="0x6000096" name="CourseStatistic(Week06FinalAssessment.Source.Models.Course)" namespace="Week06FinalAssessment.Source.Models" type_name="CourseStatistic">
+          <ranges>
+            <range source_id="20" covered="yes" start_line="13" start_column="9" end_line="13" end_column="46" />
+            <range source_id="20" covered="yes" start_line="14" start_column="9" end_line="14" end_column="10" />
+            <range source_id="20" covered="yes" start_line="15" start_column="13" end_line="15" end_column="29" />
+            <range source_id="20" covered="yes" start_line="16" start_column="9" end_line="16" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="12" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="16672" token="0x6000097" name="GetStatisticOfCourse()" namespace="Week06FinalAssessment.Source.Models" type_name="CourseStatistic">
+          <ranges>
+            <range source_id="20" covered="yes" start_line="19" start_column="9" end_line="19" end_column="10" />
+            <range source_id="20" covered="yes" start_line="20" start_column="13" end_line="20" end_column="182" />
+            <range source_id="20" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="1" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="16836" token="0x6000098" name="get_LecturerNo()" namespace="Week06FinalAssessment.Source.Models" type_name="Lecturer">
+          <ranges>
+            <range source_id="21" covered="yes" start_line="11" start_column="29" end_line="11" end_column="33" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="1" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="16844" token="0x6000099" name="set_LecturerNo(string)" namespace="Week06FinalAssessment.Source.Models" type_name="Lecturer">
+          <ranges>
+            <range source_id="21" covered="yes" start_line="11" start_column="34" end_line="11" end_column="38" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="16853" token="0x600009a" name="Lecturer()" namespace="Week06FinalAssessment.Source.Models" type_name="Lecturer">
+          <ranges>
+            <range source_id="21" covered="yes" start_line="13" start_column="9" end_line="13" end_column="26" />
+            <range source_id="21" covered="yes" start_line="13" start_column="27" end_line="13" end_column="28" />
+            <range source_id="21" covered="yes" start_line="13" start_column="29" end_line="13" end_column="30" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="16863" token="0x600009b" name="Lecturer(string, System.DateTime, string, string, string)" namespace="Week06FinalAssessment.Source.Models" type_name="Lecturer">
+          <ranges>
+            <range source_id="21" covered="yes" start_line="16" start_column="15" end_line="16" end_column="63" />
+            <range source_id="21" covered="yes" start_line="17" start_column="9" end_line="17" end_column="10" />
+            <range source_id="21" covered="yes" start_line="18" start_column="13" end_line="18" end_column="37" />
+            <range source_id="21" covered="yes" start_line="19" start_column="9" end_line="19" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="16888" token="0x600009c" name="GetLecturerNo()" namespace="Week06FinalAssessment.Source.Models" type_name="Lecturer">
+          <ranges>
+            <range source_id="21" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+            <range source_id="21" covered="yes" start_line="22" start_column="13" end_line="22" end_column="31" />
+            <range source_id="21" covered="yes" start_line="23" start_column="9" end_line="23" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="16912" token="0x600009d" name="Person()" namespace="Week06FinalAssessment.Source.Models" type_name="Person">
+          <ranges>
+            <range source_id="22" covered="yes" start_line="16" start_column="9" end_line="16" end_column="27" />
+            <range source_id="22" covered="yes" start_line="17" start_column="9" end_line="17" end_column="10" />
+            <range source_id="22" covered="yes" start_line="19" start_column="9" end_line="19" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="7" lines_partially_covered="0" lines_not_covered="0" id="16922" token="0x600009e" name="Person(string, System.DateTime, string, string)" namespace="Week06FinalAssessment.Source.Models" type_name="Person">
+          <ranges>
+            <range source_id="22" covered="yes" start_line="20" start_column="9" end_line="20" end_column="99" />
+            <range source_id="22" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+            <range source_id="22" covered="yes" start_line="22" start_column="13" end_line="22" end_column="33" />
+            <range source_id="22" covered="yes" start_line="23" start_column="13" end_line="23" end_column="35" />
+            <range source_id="22" covered="yes" start_line="24" start_column="13" end_line="24" end_column="31" />
+            <range source_id="22" covered="yes" start_line="25" start_column="13" end_line="25" end_column="41" />
+            <range source_id="22" covered="yes" start_line="26" start_column="9" end_line="26" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="16964" token="0x600009f" name="GetFullName()" namespace="Week06FinalAssessment.Source.Models" type_name="Person">
+          <ranges>
+            <range source_id="22" covered="yes" start_line="28" start_column="9" end_line="28" end_column="10" />
+            <range source_id="22" covered="yes" start_line="29" start_column="13" end_line="29" end_column="29" />
+            <range source_id="22" covered="yes" start_line="30" start_column="9" end_line="30" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="16988" token="0x60000a0" name="GetBirthDate()" namespace="Week06FinalAssessment.Source.Models" type_name="Person">
+          <ranges>
+            <range source_id="22" covered="yes" start_line="32" start_column="9" end_line="32" end_column="10" />
+            <range source_id="22" covered="yes" start_line="33" start_column="13" end_line="33" end_column="30" />
+            <range source_id="22" covered="yes" start_line="34" start_column="9" end_line="34" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="17012" token="0x60000a1" name="GetAddress()" namespace="Week06FinalAssessment.Source.Models" type_name="Person">
+          <ranges>
+            <range source_id="22" covered="yes" start_line="36" start_column="9" end_line="36" end_column="10" />
+            <range source_id="22" covered="yes" start_line="37" start_column="13" end_line="37" end_column="28" />
+            <range source_id="22" covered="yes" start_line="38" start_column="9" end_line="38" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="17036" token="0x60000a2" name="GetEmailAddress()" namespace="Week06FinalAssessment.Source.Models" type_name="Person">
+          <ranges>
+            <range source_id="22" covered="yes" start_line="40" start_column="9" end_line="40" end_column="10" />
+            <range source_id="22" covered="yes" start_line="41" start_column="13" end_line="41" end_column="33" />
+            <range source_id="22" covered="yes" start_line="42" start_column="9" end_line="42" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="1" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="17060" token="0x60000a3" name="get_StudentNo()" namespace="Week06FinalAssessment.Source.Models" type_name="Student">
+          <ranges>
+            <range source_id="23" covered="yes" start_line="12" start_column="28" end_line="12" end_column="32" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="1" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="17068" token="0x60000a4" name="set_StudentNo(string)" namespace="Week06FinalAssessment.Source.Models" type_name="Student">
+          <ranges>
+            <range source_id="23" covered="yes" start_line="12" start_column="33" end_line="12" end_column="37" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="1" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="17077" token="0x60000a5" name="get_RegistrationDate()" namespace="Week06FinalAssessment.Source.Models" type_name="Student">
+          <ranges>
+            <range source_id="23" covered="yes" start_line="13" start_column="37" end_line="13" end_column="41" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="1" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="17085" token="0x60000a6" name="set_RegistrationDate(System.DateTime)" namespace="Week06FinalAssessment.Source.Models" type_name="Student">
+          <ranges>
+            <range source_id="23" covered="yes" start_line="13" start_column="42" end_line="13" end_column="46" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="17094" token="0x60000a7" name="Student()" namespace="Week06FinalAssessment.Source.Models" type_name="Student">
+          <ranges>
+            <range source_id="23" covered="yes" start_line="15" start_column="9" end_line="15" end_column="25" />
+            <range source_id="23" covered="yes" start_line="16" start_column="9" end_line="16" end_column="10" />
+            <range source_id="23" covered="yes" start_line="18" start_column="9" end_line="18" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="17104" token="0x60000a8" name="Student(string, System.DateTime, string, string, string, System.DateTime)" namespace="Week06FinalAssessment.Source.Models" type_name="Student">
+          <ranges>
+            <range source_id="23" covered="yes" start_line="21" start_column="15" end_line="21" end_column="63" />
+            <range source_id="23" covered="yes" start_line="22" start_column="9" end_line="22" end_column="10" />
+            <range source_id="23" covered="yes" start_line="23" start_column="13" end_line="23" end_column="35" />
+            <range source_id="23" covered="yes" start_line="24" start_column="13" end_line="24" end_column="49" />
+            <range source_id="23" covered="yes" start_line="25" start_column="9" end_line="25" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="17140" token="0x60000a9" name="GetStudentNo()" namespace="Week06FinalAssessment.Source.Models" type_name="Student">
+          <ranges>
+            <range source_id="23" covered="yes" start_line="27" start_column="9" end_line="27" end_column="10" />
+            <range source_id="23" covered="yes" start_line="28" start_column="13" end_line="28" end_column="30" />
+            <range source_id="23" covered="yes" start_line="29" start_column="9" end_line="29" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="17164" token="0x60000aa" name="GetRegistrationDate()" namespace="Week06FinalAssessment.Source.Models" type_name="Student">
+          <ranges>
+            <range source_id="23" covered="yes" start_line="31" start_column="9" end_line="31" end_column="10" />
+            <range source_id="23" covered="yes" start_line="32" start_column="13" end_line="32" end_column="37" />
+            <range source_id="23" covered="yes" start_line="33" start_column="9" end_line="33" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="17188" token="0x60000ab" name="AddStudent(Week06FinalAssessment.Source.Models.Student)" namespace="Week06FinalAssessment.Source.Models" type_name="StudentManager">
+          <ranges>
+            <range source_id="24" covered="yes" start_line="14" start_column="9" end_line="14" end_column="10" />
+            <range source_id="24" covered="yes" start_line="15" start_column="13" end_line="15" end_column="35" />
+            <range source_id="24" covered="yes" start_line="16" start_column="9" end_line="16" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="17204" token="0x60000ac" name="GetStudentsCount()" namespace="Week06FinalAssessment.Source.Models" type_name="StudentManager">
+          <ranges>
+            <range source_id="24" covered="yes" start_line="19" start_column="9" end_line="19" end_column="10" />
+            <range source_id="24" covered="yes" start_line="20" start_column="13" end_line="20" end_column="35" />
+            <range source_id="24" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="17236" token="0x60000ad" name="GetStudents()" namespace="Week06FinalAssessment.Source.Models" type_name="StudentManager">
+          <ranges>
+            <range source_id="24" covered="yes" start_line="24" start_column="9" end_line="24" end_column="10" />
+            <range source_id="24" covered="yes" start_line="25" start_column="13" end_line="25" end_column="29" />
+            <range source_id="24" covered="yes" start_line="26" start_column="9" end_line="26" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="17260" token="0x60000ae" name="StudentManager()" namespace="Week06FinalAssessment.Source.Models" type_name="StudentManager">
+          <ranges>
+            <range source_id="24" covered="yes" start_line="11" start_column="9" end_line="11" end_column="71" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="17280" token="0x60000af" name="DbClientException(string)" namespace="Week06FinalAssessment.Source.Exceptions" type_name="DbClientException">
+          <ranges>
+            <range source_id="25" covered="yes" start_line="11" start_column="52" end_line="11" end_column="65" />
+            <range source_id="25" covered="yes" start_line="12" start_column="9" end_line="12" end_column="10" />
+            <range source_id="25" covered="yes" start_line="13" start_column="9" end_line="13" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="0.00" line_coverage="0.00" blocks_covered="0" blocks_not_covered="2" lines_covered="0" lines_partially_covered="0" lines_not_covered="3" id="17291" token="0x60000b0" name="DbClientException(string, System.Exception)" namespace="Week06FinalAssessment.Source.Exceptions" type_name="DbClientException">
+          <ranges>
+            <range source_id="25" covered="no" start_line="15" start_column="78" end_line="15" end_column="107" />
+            <range source_id="25" covered="no" start_line="16" start_column="9" end_line="16" end_column="10" />
+            <range source_id="25" covered="no" start_line="17" start_column="9" end_line="17" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="17303" token="0x60000b1" name="DbClient()" namespace="Week06FinalAssessment.Source.Clients" type_name="DbClient">
+          <ranges>
+            <range source_id="26" covered="yes" start_line="18" start_column="9" end_line="18" end_column="26" />
+            <range source_id="26" covered="yes" start_line="19" start_column="9" end_line="19" end_column="10" />
+            <range source_id="26" covered="yes" start_line="20" start_column="13" end_line="20" end_column="56" />
+            <range source_id="26" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="9" blocks_not_covered="0" lines_covered="6" lines_partially_covered="0" lines_not_covered="0" id="17888" token="0x60000bc" name="ValidateFinancialApiArguments(Week06FinalAssessment.Source.Models.Student, Week06FinalAssessment.Source.Models.Course, string)" namespace="Week06FinalAssessment.Source.Clients.Validator" type_name="ClientValidator">
+          <ranges>
+            <range source_id="27" covered="yes" start_line="13" start_column="9" end_line="13" end_column="10" />
+            <range source_id="27" covered="yes" start_line="14" start_column="13" end_line="14" end_column="33" />
+            <range source_id="27" covered="yes" start_line="15" start_column="17" end_line="15" end_column="116" />
+            <range source_id="27" covered="yes" start_line="16" start_column="13" end_line="16" end_column="32" />
+            <range source_id="27" covered="yes" start_line="17" start_column="17" end_line="17" end_column="114" />
+            <range source_id="27" covered="yes" start_line="18" start_column="9" end_line="18" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="5" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="17964" token="0x60000bd" name="ValidateNotificationMessage(string)" namespace="Week06FinalAssessment.Source.Clients.Validator" type_name="ClientValidator">
+          <ranges>
+            <range source_id="27" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+            <range source_id="27" covered="yes" start_line="22" start_column="13" end_line="22" end_column="59" />
+            <range source_id="27" covered="yes" start_line="23" start_column="17" end_line="23" end_column="127" />
+            <range source_id="27" covered="yes" start_line="24" start_column="9" end_line="24" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="4" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="18004" token="0x60000be" name="ValidateCourseArgument(Week06FinalAssessment.Source.Models.Course)" namespace="Week06FinalAssessment.Source.Clients.Validator" type_name="ClientValidator">
+          <ranges>
+            <range source_id="27" covered="yes" start_line="27" start_column="9" end_line="27" end_column="10" />
+            <range source_id="27" covered="yes" start_line="28" start_column="13" end_line="28" end_column="32" />
+            <range source_id="27" covered="yes" start_line="29" start_column="17" end_line="29" end_column="91" />
+            <range source_id="27" covered="yes" start_line="30" start_column="9" end_line="30" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="5" blocks_not_covered="0" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="18044" token="0x60000bf" name="ValidateCourseNameArgument(string)" namespace="Week06FinalAssessment.Source.Clients.Validator" type_name="ClientValidator">
+          <ranges>
+            <range source_id="27" covered="yes" start_line="33" start_column="9" end_line="33" end_column="10" />
+            <range source_id="27" covered="yes" start_line="34" start_column="13" end_line="34" end_column="50" />
+            <range source_id="27" covered="yes" start_line="35" start_column="17" end_line="35" end_column="109" />
+            <range source_id="27" covered="yes" start_line="36" start_column="9" end_line="36" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="63.16" line_coverage="100.00" blocks_covered="12" blocks_not_covered="7" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="18096" token="0x60000d3" name="MoveNext()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest.&lt;&lt;AddStudentToCourse_WhenCourseNotFound_ShouldThrowException&gt;b__21_0&gt;d">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="149" start_column="55" end_line="149" end_column="142" />
+          </ranges>
+        </function>
+        <function block_coverage="79.31" line_coverage="100.00" blocks_covered="23" blocks_not_covered="6" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="18344" token="0x60000d8" name="MoveNext()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest.&lt;AddCourse_ShouldCallRepositoryAddCourse&gt;d__17">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="79" start_column="9" end_line="79" end_column="10" />
+            <range source_id="1" covered="yes" start_line="83" start_column="13" end_line="83" end_column="59" />
+            <range source_id="1" covered="yes" start_line="86" start_column="13" end_line="86" end_column="89" />
+            <range source_id="1" covered="yes" start_line="87" start_column="9" end_line="87" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="91.30" line_coverage="100.00" blocks_covered="63" blocks_not_covered="6" lines_covered="10" lines_partially_covered="0" lines_not_covered="0" id="18708" token="0x60000db" name="MoveNext()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest.&lt;AddStudentToCourse_ValidCourse_StudentAdded&gt;d__20">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="127" start_column="9" end_line="127" end_column="10" />
+            <range source_id="1" covered="yes" start_line="129" start_column="13" end_line="130" end_column="43" />
+            <range source_id="1" covered="yes" start_line="131" start_column="13" end_line="132" end_column="37" />
+            <range source_id="1" covered="yes" start_line="135" start_column="13" end_line="135" end_column="97" />
+            <range source_id="1" covered="yes" start_line="138" start_column="13" end_line="138" end_column="82" />
+            <range source_id="1" covered="yes" start_line="139" start_column="13" end_line="140" end_column="91" />
+            <range source_id="1" covered="yes" start_line="141" start_column="9" end_line="141" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="77.78" line_coverage="100.00" blocks_covered="7" blocks_not_covered="2" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="19532" token="0x60000de" name="MoveNext()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest.&lt;AddStudentToCourse_WhenCourseNotFound_ShouldThrowException&gt;d__21">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="145" start_column="9" end_line="145" end_column="10" />
+            <range source_id="1" covered="yes" start_line="149" start_column="13" end_line="149" end_column="144" />
+            <range source_id="1" covered="yes" start_line="150" start_column="9" end_line="150" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="0.00" line_coverage="0.00" blocks_covered="0" blocks_not_covered="36" lines_covered="0" lines_partially_covered="0" lines_not_covered="5" id="19652" token="0x60000e1" name="MoveNext()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest.&lt;AddingStudentToCourse_ShouldIncreaseCountOfStudentsOfCourse&gt;d__22">
+          <ranges>
+            <range source_id="1" covered="no" start_line="153" start_column="9" end_line="153" end_column="10" />
+            <range source_id="1" covered="no" start_line="157" start_column="13" end_line="157" end_column="66" />
+            <range source_id="1" covered="no" start_line="158" start_column="13" end_line="158" end_column="111" />
+            <range source_id="1" covered="no" start_line="161" start_column="13" end_line="161" end_column="85" />
+            <range source_id="1" covered="no" start_line="162" start_column="9" end_line="162" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="78.57" line_coverage="100.00" blocks_covered="22" blocks_not_covered="6" lines_covered="6" lines_partially_covered="0" lines_not_covered="0" id="20080" token="0x60000e4" name="MoveNext()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest.&lt;GetCourseByName_ShouldReturnCourse&gt;d__18">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="92" start_column="9" end_line="92" end_column="10" />
+            <range source_id="1" covered="yes" start_line="94" start_column="13" end_line="95" end_column="43" />
+            <range source_id="1" covered="yes" start_line="98" start_column="13" end_line="98" end_column="82" />
+            <range source_id="1" covered="yes" start_line="101" start_column="13" end_line="101" end_column="56" />
+            <range source_id="1" covered="yes" start_line="102" start_column="9" end_line="102" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="80.00" line_coverage="100.00" blocks_covered="24" blocks_not_covered="6" lines_covered="6" lines_partially_covered="0" lines_not_covered="0" id="20492" token="0x60000e7" name="MoveNext()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest.&lt;GetCourseStatistics_ShouldReturnStatistics&gt;d__23">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="165" start_column="9" end_line="165" end_column="10" />
+            <range source_id="1" covered="yes" start_line="167" start_column="13" end_line="168" end_column="59" />
+            <range source_id="1" covered="yes" start_line="171" start_column="13" end_line="171" end_column="101" />
+            <range source_id="1" covered="yes" start_line="174" start_column="13" end_line="174" end_column="72" />
+            <range source_id="1" covered="yes" start_line="175" start_column="9" end_line="175" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="81.82" line_coverage="100.00" blocks_covered="27" blocks_not_covered="6" lines_covered="10" lines_partially_covered="0" lines_not_covered="0" id="20912" token="0x60000ea" name="MoveNext()" namespace="Week06FinalAssessment.Test.ServicesTest" type_name="CourseServiceTest.&lt;GetCourses_ShouldReturnAllCourses&gt;d__19">
+          <ranges>
+            <range source_id="1" covered="yes" start_line="108" start_column="9" end_line="108" end_column="10" />
+            <range source_id="1" covered="yes" start_line="110" start_column="13" end_line="110" end_column="46" />
+            <range source_id="1" covered="yes" start_line="111" start_column="18" end_line="111" end_column="27" />
+            <range source_id="1" covered="yes" start_line="111" start_column="29" end_line="111" end_column="48" />
+            <range source_id="1" covered="yes" start_line="111" start_column="50" end_line="111" end_column="53" />
+            <range source_id="1" covered="yes" start_line="112" start_column="13" end_line="112" end_column="14" />
+            <range source_id="1" covered="yes" start_line="113" start_column="17" end_line="113" end_column="48" />
+            <range source_id="1" covered="yes" start_line="114" start_column="13" end_line="114" end_column="14" />
+            <range source_id="1" covered="yes" start_line="116" start_column="13" end_line="116" end_column="89" />
+            <range source_id="1" covered="yes" start_line="119" start_column="13" end_line="119" end_column="63" />
+            <range source_id="1" covered="yes" start_line="122" start_column="13" end_line="122" end_column="56" />
+            <range source_id="1" covered="yes" start_line="123" start_column="9" end_line="123" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="82.35" line_coverage="100.00" blocks_covered="28" blocks_not_covered="6" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="21376" token="0x60000ed" name="MoveNext()" namespace="Week06FinalAssessment.Test.PaymentServiceTest" type_name="PaymentServiceTests.&lt;GetIsOrderPayed_ShouldReturnFalse_WhenPaymentFails&gt;d__7">
+          <ranges>
+            <range source_id="2" covered="yes" start_line="50" start_column="9" end_line="50" end_column="10" />
+            <range source_id="2" covered="yes" start_line="52" start_column="13" end_line="52" end_column="106" />
+            <range source_id="2" covered="yes" start_line="55" start_column="13" end_line="55" end_column="80" />
+            <range source_id="2" covered="yes" start_line="58" start_column="13" end_line="58" end_column="43" />
+            <range source_id="2" covered="yes" start_line="59" start_column="9" end_line="59" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="82.35" line_coverage="100.00" blocks_covered="28" blocks_not_covered="6" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="21816" token="0x60000f0" name="MoveNext()" namespace="Week06FinalAssessment.Test.PaymentServiceTest" type_name="PaymentServiceTests.&lt;GetIsOrderPayed_ShouldReturnTrue_WhenPaymentSuccessful&gt;d__6">
+          <ranges>
+            <range source_id="2" covered="yes" start_line="37" start_column="9" end_line="37" end_column="10" />
+            <range source_id="2" covered="yes" start_line="39" start_column="13" end_line="39" end_column="105" />
+            <range source_id="2" covered="yes" start_line="42" start_column="13" end_line="42" end_column="80" />
+            <range source_id="2" covered="yes" start_line="45" start_column="13" end_line="45" end_column="42" />
+            <range source_id="2" covered="yes" start_line="46" start_column="9" end_line="46" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="82.35" line_coverage="100.00" blocks_covered="28" blocks_not_covered="6" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="22256" token="0x60000f3" name="MoveNext()" namespace="Week06FinalAssessment.Test.PaymentServiceTest" type_name="PaymentServiceTests.&lt;PayForCourse_ShouldReturnFalse_WhenPaymentFails&gt;d__9">
+          <ranges>
+            <range source_id="2" covered="yes" start_line="76" start_column="9" end_line="76" end_column="10" />
+            <range source_id="2" covered="yes" start_line="78" start_column="13" end_line="78" end_column="100" />
+            <range source_id="2" covered="yes" start_line="81" start_column="13" end_line="81" end_column="77" />
+            <range source_id="2" covered="yes" start_line="84" start_column="13" end_line="84" end_column="43" />
+            <range source_id="2" covered="yes" start_line="85" start_column="9" end_line="85" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="82.35" line_coverage="100.00" blocks_covered="28" blocks_not_covered="6" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="22696" token="0x60000f6" name="MoveNext()" namespace="Week06FinalAssessment.Test.PaymentServiceTest" type_name="PaymentServiceTests.&lt;PayForCourse_ShouldReturnTrue_WhenPaymentSuccessful&gt;d__8">
+          <ranges>
+            <range source_id="2" covered="yes" start_line="63" start_column="9" end_line="63" end_column="10" />
+            <range source_id="2" covered="yes" start_line="65" start_column="13" end_line="65" end_column="99" />
+            <range source_id="2" covered="yes" start_line="68" start_column="13" end_line="68" end_column="77" />
+            <range source_id="2" covered="yes" start_line="71" start_column="13" end_line="71" end_column="42" />
+            <range source_id="2" covered="yes" start_line="72" start_column="9" end_line="72" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="61.11" line_coverage="100.00" blocks_covered="11" blocks_not_covered="7" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="23136" token="0x60000f9" name="MoveNext()" namespace="Week06FinalAssessment.Test.NotificationServiceTests" type_name="NotificationServiceTest.&lt;&lt;SendNotifications_EmptyNotificationMessage_NoNotificationSent&gt;b__6_0&gt;d">
+          <ranges>
+            <range source_id="3" covered="yes" start_line="66" start_column="74" end_line="66" end_column="121" />
+          </ranges>
+        </function>
+        <function block_coverage="61.11" line_coverage="100.00" blocks_covered="11" blocks_not_covered="7" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="23348" token="0x60000fc" name="MoveNext()" namespace="Week06FinalAssessment.Test.NotificationServiceTests" type_name="NotificationServiceTest.&lt;&lt;SendNotifications_NullNotificationMessage_NoNotificationSent&gt;b__5_0&gt;d">
+          <ranges>
+            <range source_id="3" covered="yes" start_line="53" start_column="74" end_line="53" end_column="123" />
+          </ranges>
+        </function>
+        <function block_coverage="93.10" line_coverage="100.00" blocks_covered="27" blocks_not_covered="2" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="23588" token="0x6000102" name="MoveNext()" namespace="Week06FinalAssessment.Test.NotificationServiceTests" type_name="NotificationServiceTest.&lt;SendNotifications_EmptyNotificationMessage_NoNotificationSent&gt;d__6">
+          <ranges>
+            <range source_id="3" covered="yes" start_line="62" start_column="9" end_line="62" end_column="10" />
+            <range source_id="3" covered="yes" start_line="66" start_column="13" end_line="66" end_column="123" />
+            <range source_id="3" covered="yes" start_line="69" start_column="13" end_line="69" end_column="104" />
+            <range source_id="3" covered="yes" start_line="70" start_column="13" end_line="70" end_column="115" />
+            <range source_id="3" covered="yes" start_line="71" start_column="9" end_line="71" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="93.10" line_coverage="100.00" blocks_covered="27" blocks_not_covered="2" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="23960" token="0x6000105" name="MoveNext()" namespace="Week06FinalAssessment.Test.NotificationServiceTests" type_name="NotificationServiceTest.&lt;SendNotifications_NullNotificationMessage_NoNotificationSent&gt;d__5">
+          <ranges>
+            <range source_id="3" covered="yes" start_line="49" start_column="9" end_line="49" end_column="10" />
+            <range source_id="3" covered="yes" start_line="53" start_column="13" end_line="53" end_column="125" />
+            <range source_id="3" covered="yes" start_line="56" start_column="13" end_line="56" end_column="104" />
+            <range source_id="3" covered="yes" start_line="57" start_column="13" end_line="57" end_column="115" />
+            <range source_id="3" covered="yes" start_line="58" start_column="9" end_line="58" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="85.37" line_coverage="100.00" blocks_covered="35" blocks_not_covered="6" lines_covered="6" lines_partially_covered="0" lines_not_covered="0" id="24332" token="0x6000108" name="MoveNext()" namespace="Week06FinalAssessment.Test.NotificationServiceTests" type_name="NotificationServiceTest.&lt;SendNotifications_ValidNotificationMessage_AllClientsReceiveNotification&gt;d__4">
+          <ranges>
+            <range source_id="3" covered="yes" start_line="35" start_column="9" end_line="35" end_column="10" />
+            <range source_id="3" covered="yes" start_line="37" start_column="13" end_line="37" end_column="67" />
+            <range source_id="3" covered="yes" start_line="40" start_column="13" end_line="40" end_column="78" />
+            <range source_id="3" covered="yes" start_line="43" start_column="13" end_line="43" end_column="104" />
+            <range source_id="3" covered="yes" start_line="44" start_column="13" end_line="44" end_column="115" />
+            <range source_id="3" covered="yes" start_line="45" start_column="9" end_line="45" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="79.31" line_coverage="100.00" blocks_covered="23" blocks_not_covered="6" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="24888" token="0x600010d" name="MoveNext()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest.&lt;AddCourse_ValidCourse_CourseAddedSuccessfully&gt;d__7">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="39" start_column="9" end_line="39" end_column="10" />
+            <range source_id="4" covered="yes" start_line="43" start_column="13" end_line="43" end_column="66" />
+            <range source_id="4" covered="yes" start_line="46" start_column="13" end_line="46" end_column="84" />
+            <range source_id="4" covered="yes" start_line="47" start_column="9" end_line="47" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="80.65" line_coverage="100.00" blocks_covered="25" blocks_not_covered="6" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="25224" token="0x6000110" name="MoveNext()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest.&lt;AddStudentToCourse_ValidStudentAndCourse_StudentAddedToCourse&gt;d__8">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="51" start_column="9" end_line="51" end_column="10" />
+            <range source_id="4" covered="yes" start_line="53" start_column="13" end_line="53" end_column="89" />
+            <range source_id="4" covered="yes" start_line="56" start_column="13" end_line="56" end_column="87" />
+            <range source_id="4" covered="yes" start_line="59" start_column="13" end_line="59" end_column="78" />
+            <range source_id="4" covered="yes" start_line="60" start_column="9" end_line="60" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="81.25" line_coverage="100.00" blocks_covered="26" blocks_not_covered="6" lines_covered="6" lines_partially_covered="0" lines_not_covered="0" id="25624" token="0x6000113" name="MoveNext()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest.&lt;GetCourseByName_ExistingCourse_ReturnsCourse&gt;d__9">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="64" start_column="9" end_line="64" end_column="10" />
+            <range source_id="4" covered="yes" start_line="66" start_column="13" end_line="66" end_column="101" />
+            <range source_id="4" covered="yes" start_line="67" start_column="13" end_line="67" end_column="97" />
+            <range source_id="4" covered="yes" start_line="70" start_column="13" end_line="70" end_column="77" />
+            <range source_id="4" covered="yes" start_line="73" start_column="13" end_line="73" end_column="60" />
+            <range source_id="4" covered="yes" start_line="74" start_column="9" end_line="74" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="79.31" line_coverage="100.00" blocks_covered="23" blocks_not_covered="6" lines_covered="6" lines_partially_covered="0" lines_not_covered="0" id="26088" token="0x6000116" name="MoveNext()" namespace="Week06FinalAssessment.Test.RepositoryTest" type_name="CourseRepositoryTest.&lt;GetCourses_ReturnsListOfCourses&gt;d__11">
+          <ranges>
+            <range source_id="4" covered="yes" start_line="91" start_column="9" end_line="91" end_column="10" />
+            <range source_id="4" covered="yes" start_line="93" start_column="13" end_line="93" end_column="55" />
+            <range source_id="4" covered="yes" start_line="95" start_column="13" end_line="95" end_column="78" />
+            <range source_id="4" covered="yes" start_line="98" start_column="13" end_line="98" end_column="62" />
+            <range source_id="4" covered="yes" start_line="101" start_column="13" end_line="101" end_column="56" />
+            <range source_id="4" covered="yes" start_line="102" start_column="9" end_line="102" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="71.43" line_coverage="100.00" blocks_covered="15" blocks_not_covered="6" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="26504" token="0x6000119" name="MoveNext()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests.&lt;CheckPaymentStatus_ValidStudentAndCourse_ReturnsTrue&gt;d__4">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="33" start_column="9" end_line="33" end_column="10" />
+            <range source_id="11" covered="yes" start_line="37" start_column="13" end_line="37" end_column="109" />
+            <range source_id="11" covered="yes" start_line="40" start_column="13" end_line="40" end_column="42" />
+            <range source_id="11" covered="yes" start_line="41" start_column="9" end_line="41" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="71.43" line_coverage="100.00" blocks_covered="15" blocks_not_covered="6" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="26772" token="0x600011c" name="MoveNext()" namespace="Week06FinalAssessment.Test.FinancialApiClientTest" type_name="FinancialApiClientTests.&lt;PayForCourse_ValidStudentAndCourse_ReturnsTrue&gt;d__5">
+          <ranges>
+            <range source_id="11" covered="yes" start_line="45" start_column="9" end_line="45" end_column="10" />
+            <range source_id="11" covered="yes" start_line="49" start_column="13" end_line="49" end_column="103" />
+            <range source_id="11" covered="yes" start_line="52" start_column="13" end_line="52" end_column="42" />
+            <range source_id="11" covered="yes" start_line="53" start_column="9" end_line="53" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="27039" token="0x600011f" name="&lt;SaveCourse_NullCourse_ThrowsArgumentNullException&gt;b__0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;&gt;c__DisplayClass10_0">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="98" start_column="68" end_line="98" end_column="99" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="27072" token="0x6000121" name="&lt;GetCourseByName_NullCourseName_ThrowsArgumentNullException&gt;b__0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;&gt;c__DisplayClass11_0">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="108" start_column="68" end_line="108" end_column="108" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="27105" token="0x6000123" name="&lt;GetCourseByName_EmptyCourseName_ThrowsArgumentException&gt;b__0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;&gt;c__DisplayClass12_0">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="118" start_column="68" end_line="118" end_column="109" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="27138" token="0x6000125" name="&lt;GetCourseByName_NonExistingCourse_ThrowsKeyNotFoundException&gt;b__0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;&gt;c__DisplayClass13_0">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="128" start_column="67" end_line="128" end_column="114" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="27417" token="0x600012e" name="&lt;GetCourseByName_CourseNotFound_ThrowsKeyNotFoundException&gt;b__0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;&gt;c__DisplayClass7_0">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="61" start_column="60" end_line="61" end_column="96" />
+          </ranges>
+        </function>
+        <function block_coverage="80.70" line_coverage="100.00" blocks_covered="46" blocks_not_covered="11" lines_covered="9" lines_partially_covered="0" lines_not_covered="0" id="27452" token="0x6000130" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;GetAllCourses_MultipleCourses_ReturnsAllCourses&gt;d__9">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="76" start_column="9" end_line="76" end_column="10" />
+            <range source_id="12" covered="yes" start_line="78" start_column="13" end_line="78" end_column="189" />
+            <range source_id="12" covered="yes" start_line="79" start_column="13" end_line="79" end_column="20" />
+            <range source_id="12" covered="yes" start_line="79" start_column="22" end_line="79" end_column="32" />
+            <range source_id="12" covered="yes" start_line="79" start_column="33" end_line="79" end_column="35" />
+            <range source_id="12" covered="yes" start_line="79" start_column="36" end_line="79" end_column="51" />
+            <range source_id="12" covered="yes" start_line="80" start_column="13" end_line="80" end_column="14" />
+            <range source_id="12" covered="yes" start_line="81" start_column="17" end_line="81" end_column="51" />
+            <range source_id="12" covered="yes" start_line="82" start_column="13" end_line="82" end_column="14" />
+            <range source_id="12" covered="yes" start_line="85" start_column="13" end_line="85" end_column="57" />
+            <range source_id="12" covered="yes" start_line="88" start_column="13" end_line="88" end_column="69" />
+            <range source_id="12" covered="yes" start_line="89" start_column="9" end_line="89" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="68.42" line_coverage="100.00" blocks_covered="13" blocks_not_covered="6" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="28116" token="0x6000133" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;GetAllCourses_NoCourses_ReturnsEmptyList&gt;d__8">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="66" start_column="9" end_line="66" end_column="10" />
+            <range source_id="12" covered="yes" start_line="68" start_column="13" end_line="68" end_column="57" />
+            <range source_id="12" covered="yes" start_line="71" start_column="13" end_line="71" end_column="46" />
+            <range source_id="12" covered="yes" start_line="72" start_column="9" end_line="72" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="80.00" line_coverage="100.00" blocks_covered="8" blocks_not_covered="2" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="28376" token="0x6000136" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;GetCourseByName_CourseNotFound_ThrowsKeyNotFoundException&gt;d__7">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="56" start_column="9" end_line="56" end_column="10" />
+            <range source_id="12" covered="yes" start_line="58" start_column="13" end_line="58" end_column="50" />
+            <range source_id="12" covered="yes" start_line="61" start_column="13" end_line="61" end_column="98" />
+            <range source_id="12" covered="yes" start_line="62" start_column="9" end_line="62" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="91.30" line_coverage="100.00" blocks_covered="21" blocks_not_covered="2" lines_covered="7" lines_partially_covered="0" lines_not_covered="0" id="28552" token="0x6000139" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;GetCourseByName_DbClientException_ThrowsDbClientException&gt;d__17">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="169" start_column="9" end_line="169" end_column="10" />
+            <range source_id="12" covered="yes" start_line="171" start_column="13" end_line="171" end_column="47" />
+            <range source_id="12" covered="yes" start_line="172" start_column="13" end_line="172" end_column="111" />
+            <range source_id="12" covered="yes" start_line="173" start_column="13" end_line="173" end_column="99" />
+            <range source_id="12" covered="yes" start_line="176" start_column="13" end_line="176" end_column="138" />
+            <range source_id="12" covered="yes" start_line="177" start_column="13" end_line="177" end_column="63" />
+            <range source_id="12" covered="yes" start_line="178" start_column="9" end_line="178" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="90.91" line_coverage="100.00" blocks_covered="20" blocks_not_covered="2" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="28928" token="0x600013c" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;GetCourseByName_EmptyCourseName_ThrowsArgumentNullException&gt;d__15">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="147" start_column="9" end_line="147" end_column="10" />
+            <range source_id="12" covered="yes" start_line="149" start_column="13" end_line="149" end_column="36" />
+            <range source_id="12" covered="yes" start_line="150" start_column="13" end_line="150" end_column="109" />
+            <range source_id="12" covered="yes" start_line="153" start_column="13" end_line="153" end_column="129" />
+            <range source_id="12" covered="yes" start_line="154" start_column="9" end_line="154" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="90.91" line_coverage="100.00" blocks_covered="20" blocks_not_covered="2" lines_covered="5" lines_partially_covered="0" lines_not_covered="0" id="29236" token="0x600013f" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;GetCourseByName_NonExistingCourseName_ThrowsKeyNotFoundException&gt;d__16">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="158" start_column="9" end_line="158" end_column="10" />
+            <range source_id="12" covered="yes" start_line="160" start_column="13" end_line="160" end_column="50" />
+            <range source_id="12" covered="yes" start_line="161" start_column="13" end_line="161" end_column="108" />
+            <range source_id="12" covered="yes" start_line="164" start_column="13" end_line="164" end_column="128" />
+            <range source_id="12" covered="yes" start_line="165" start_column="9" end_line="165" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="80.00" line_coverage="100.00" blocks_covered="8" blocks_not_covered="2" lines_covered="4" lines_partially_covered="0" lines_not_covered="0" id="29544" token="0x6000142" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;GetCourseByName_NonExistingCourse_ThrowsKeyNotFoundException&gt;d__13">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="123" start_column="9" end_line="123" end_column="10" />
+            <range source_id="12" covered="yes" start_line="125" start_column="13" end_line="125" end_column="61" />
+            <range source_id="12" covered="yes" start_line="128" start_column="13" end_line="128" end_column="116" />
+            <range source_id="12" covered="yes" start_line="129" start_column="9" end_line="129" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="82.35" line_coverage="100.00" blocks_covered="28" blocks_not_covered="6" lines_covered="6" lines_partially_covered="0" lines_not_covered="0" id="29720" token="0x6000145" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;GetCourseByName_ValidCourseName_ReturnsCourse&gt;d__14">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="133" start_column="9" end_line="133" end_column="10" />
+            <range source_id="12" covered="yes" start_line="135" start_column="13" end_line="135" end_column="47" />
+            <range source_id="12" covered="yes" start_line="136" start_column="13" end_line="136" end_column="101" />
+            <range source_id="12" covered="yes" start_line="139" start_column="13" end_line="139" end_column="80" />
+            <range source_id="12" covered="yes" start_line="142" start_column="13" end_line="142" end_column="64" />
+            <range source_id="12" covered="yes" start_line="143" start_column="9" end_line="143" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="73.68" line_coverage="100.00" blocks_covered="28" blocks_not_covered="10" lines_covered="7" lines_partially_covered="0" lines_not_covered="0" id="30208" token="0x6000148" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;SaveCourse_ValidCourse_CourseSavedSuccessfully&gt;d__6">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="40" start_column="9" end_line="40" end_column="10" />
+            <range source_id="12" covered="yes" start_line="42" start_column="13" end_line="42" end_column="95" />
+            <range source_id="12" covered="yes" start_line="45" start_column="13" end_line="45" end_column="47" />
+            <range source_id="12" covered="yes" start_line="46" start_column="13" end_line="46" end_column="81" />
+            <range source_id="12" covered="yes" start_line="49" start_column="13" end_line="49" end_column="45" />
+            <range source_id="12" covered="yes" start_line="50" start_column="13" end_line="50" end_column="84" />
+            <range source_id="12" covered="yes" start_line="52" start_column="9" end_line="52" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="30707" token="0x600014b" name="&lt;SendNotification_NullNotificationMessage_ThrowsArgumentNullException&gt;b__0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="EmailClientTest.&lt;&gt;c__DisplayClass4_0">
+          <ranges>
+            <range source_id="13" covered="yes" start_line="50" start_column="68" end_line="50" end_column="102" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="30730" token="0x600014d" name="&lt;SendNotification_EmptyNotificationMessage_ThrowsArgumentNullException&gt;b__0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="EmailClientTest.&lt;&gt;c__DisplayClass5_0">
+          <ranges>
+            <range source_id="13" covered="yes" start_line="60" start_column="68" end_line="60" end_column="117" />
+          </ranges>
+        </function>
+        <function block_coverage="92.31" line_coverage="100.00" blocks_covered="24" blocks_not_covered="2" lines_covered="7" lines_partially_covered="0" lines_not_covered="0" id="30764" token="0x600014f" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="EmailClientTest.&lt;SendNotification_ValidNotificationMessage_ConsoleOutputContainsMessage&gt;d__3">
+          <ranges>
+            <range source_id="13" covered="yes" start_line="31" start_column="9" end_line="31" end_column="10" />
+            <range source_id="13" covered="yes" start_line="33" start_column="13" end_line="33" end_column="52" />
+            <range source_id="13" covered="yes" start_line="34" start_column="13" end_line="34" end_column="43" />
+            <range source_id="13" covered="yes" start_line="37" start_column="13" end_line="37" end_column="69" />
+            <range source_id="13" covered="yes" start_line="40" start_column="13" end_line="40" end_column="132" />
+            <range source_id="13" covered="yes" start_line="41" start_column="13" end_line="41" end_column="128" />
+            <range source_id="13" covered="yes" start_line="42" start_column="9" end_line="42" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="3" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="31107" token="0x6000152" name="&lt;SendNotification_ValidNotificationMessage_ConsoleOutputContainsMessage&gt;b__0(string)" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest.&lt;&gt;c__DisplayClass4_0">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="77" start_column="58" end_line="77" end_column="124" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="31140" token="0x6000154" name="&lt;SendNotification_NullNotificationMessage_ThrowsArgumentNullException&gt;b__0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest.&lt;&gt;c__DisplayClass5_0">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="88" start_column="68" end_line="88" end_column="128" />
+          </ranges>
+        </function>
+        <function block_coverage="100.00" line_coverage="100.00" blocks_covered="2" blocks_not_covered="0" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="31168" token="0x6000156" name="&lt;SendNotification_EmptyNotificationMessage_ThrowsArgumentNullException&gt;b__0()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest.&lt;&gt;c__DisplayClass6_0">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="99" start_column="68" end_line="99" end_column="128" />
+          </ranges>
+        </function>
+        <function block_coverage="94.44" line_coverage="100.00" blocks_covered="34" blocks_not_covered="2" lines_covered="12" lines_partially_covered="0" lines_not_covered="0" id="31196" token="0x6000158" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest.&lt;SendNotification_SuccessfullySent_PushNotificationSent&gt;d__2">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="31" start_column="9" end_line="31" end_column="10" />
+            <range source_id="14" covered="yes" start_line="33" start_column="13" end_line="33" end_column="70" />
+            <range source_id="14" covered="yes" start_line="34" start_column="13" end_line="34" end_column="89" />
+            <range source_id="14" covered="yes" start_line="38" start_column="20" end_line="38" end_column="56" />
+            <range source_id="14" covered="yes" start_line="39" start_column="13" end_line="39" end_column="14" />
+            <range source_id="14" covered="yes" start_line="40" start_column="17" end_line="40" end_column="36" />
+            <range source_id="14" covered="yes" start_line="43" start_column="17" end_line="43" end_column="84" />
+            <range source_id="14" covered="yes" start_line="44" start_column="17" end_line="44" end_column="28" />
+            <range source_id="14" covered="yes" start_line="47" start_column="17" end_line="47" end_column="53" />
+            <range source_id="14" covered="yes" start_line="48" start_column="13" end_line="48" end_column="14" />
+            <range source_id="14" covered="yes" start_line="51" start_column="13" end_line="51" end_column="65" />
+            <range source_id="14" covered="yes" start_line="52" start_column="9" end_line="52" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="92.86" line_coverage="100.00" blocks_covered="26" blocks_not_covered="2" lines_covered="9" lines_partially_covered="0" lines_not_covered="0" id="31640" token="0x600015b" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="PushNotificationClientTest.&lt;SendNotification_ValidNotificationMessage_ConsoleOutputContainsMessage&gt;d__4">
+          <ranges>
+            <range source_id="14" covered="yes" start_line="65" start_column="9" end_line="65" end_column="10" />
+            <range source_id="14" covered="yes" start_line="67" start_column="13" end_line="67" end_column="71" />
+            <range source_id="14" covered="yes" start_line="68" start_column="13" end_line="68" end_column="67" />
+            <range source_id="14" covered="yes" start_line="69" start_column="13" end_line="69" end_column="52" />
+            <range source_id="14" covered="yes" start_line="70" start_column="13" end_line="70" end_column="43" />
+            <range source_id="14" covered="yes" start_line="73" start_column="13" end_line="73" end_column="80" />
+            <range source_id="14" covered="yes" start_line="76" start_column="13" end_line="76" end_column="132" />
+            <range source_id="14" covered="yes" start_line="77" start_column="13" end_line="77" end_column="127" />
+            <range source_id="14" covered="yes" start_line="78" start_column="9" end_line="78" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="66.67" line_coverage="100.00" blocks_covered="12" blocks_not_covered="6" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="32060" token="0x600015e" name="MoveNext()" namespace="Week06FinalAssessment.Source.Services" type_name="CourseService.&lt;AddCourse&gt;d__4">
+          <ranges>
+            <range source_id="15" covered="yes" start_line="24" start_column="9" end_line="24" end_column="10" />
+            <range source_id="15" covered="yes" start_line="25" start_column="13" end_line="25" end_column="54" />
+            <range source_id="15" covered="yes" start_line="26" start_column="9" end_line="26" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="68.89" line_coverage="90.00" blocks_covered="31" blocks_not_covered="14" lines_covered="9" lines_partially_covered="0" lines_not_covered="1" id="32272" token="0x6000161" name="MoveNext()" namespace="Week06FinalAssessment.Source.Services" type_name="CourseService.&lt;AddStudentToCourse&gt;d__7">
+          <ranges>
+            <range source_id="15" covered="yes" start_line="36" start_column="9" end_line="36" end_column="10" />
+            <range source_id="15" covered="yes" start_line="37" start_column="13" end_line="37" end_column="80" />
+            <range source_id="15" covered="yes" start_line="38" start_column="13" end_line="38" end_column="32" />
+            <range source_id="15" covered="yes" start_line="39" start_column="17" end_line="39" end_column="57" />
+            <range source_id="15" covered="yes" start_line="41" start_column="13" end_line="41" end_column="95" />
+            <range source_id="15" covered="yes" start_line="42" start_column="13" end_line="42" end_column="41" />
+            <range source_id="15" covered="no" start_line="43" start_column="17" end_line="43" end_column="75" />
+            <range source_id="15" covered="yes" start_line="45" start_column="13" end_line="45" end_column="40" />
+            <range source_id="15" covered="yes" start_line="46" start_column="13" end_line="46" end_column="114" />
+            <range source_id="15" covered="yes" start_line="47" start_column="9" end_line="47" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="66.67" line_coverage="100.00" blocks_covered="12" blocks_not_covered="6" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="32896" token="0x6000164" name="MoveNext()" namespace="Week06FinalAssessment.Source.Services" type_name="CourseService.&lt;GetCourseByName&gt;d__5">
+          <ranges>
+            <range source_id="15" covered="yes" start_line="28" start_column="9" end_line="28" end_column="10" />
+            <range source_id="15" covered="yes" start_line="29" start_column="13" end_line="29" end_column="71" />
+            <range source_id="15" covered="yes" start_line="30" start_column="9" end_line="30" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="66.67" line_coverage="100.00" blocks_covered="12" blocks_not_covered="6" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="33124" token="0x6000167" name="MoveNext()" namespace="Week06FinalAssessment.Source.Services" type_name="CourseService.&lt;GetCourseStatistics&gt;d__8">
+          <ranges>
+            <range source_id="15" covered="yes" start_line="50" start_column="9" end_line="50" end_column="10" />
+            <range source_id="15" covered="yes" start_line="51" start_column="13" end_line="51" end_column="75" />
+            <range source_id="15" covered="yes" start_line="52" start_column="9" end_line="52" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="66.67" line_coverage="100.00" blocks_covered="12" blocks_not_covered="6" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="33352" token="0x600016a" name="MoveNext()" namespace="Week06FinalAssessment.Source.Services" type_name="CourseService.&lt;GetCourses&gt;d__6">
+          <ranges>
+            <range source_id="15" covered="yes" start_line="32" start_column="9" end_line="32" end_column="10" />
+            <range source_id="15" covered="yes" start_line="33" start_column="13" end_line="33" end_column="56" />
+            <range source_id="15" covered="yes" start_line="34" start_column="9" end_line="34" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="87.18" line_coverage="100.00" blocks_covered="34" blocks_not_covered="5" lines_covered="8" lines_partially_covered="0" lines_not_covered="0" id="33572" token="0x600016d" name="MoveNext()" namespace="Week06FinalAssessment.Source.Services" type_name="NotificationService.&lt;SendNotifications&gt;d__2">
+          <ranges>
+            <range source_id="16" covered="yes" start_line="21" start_column="9" end_line="21" end_column="10" />
+            <range source_id="16" covered="yes" start_line="22" start_column="13" end_line="22" end_column="59" />
+            <range source_id="16" covered="yes" start_line="23" start_column="17" end_line="23" end_column="127" />
+            <range source_id="16" covered="yes" start_line="25" start_column="13" end_line="25" end_column="20" />
+            <range source_id="16" covered="yes" start_line="25" start_column="22" end_line="25" end_column="32" />
+            <range source_id="16" covered="yes" start_line="25" start_column="33" end_line="25" end_column="35" />
+            <range source_id="16" covered="yes" start_line="25" start_column="36" end_line="25" end_column="50" />
+            <range source_id="16" covered="yes" start_line="26" start_column="13" end_line="26" end_column="14" />
+            <range source_id="16" covered="yes" start_line="27" start_column="17" end_line="27" end_column="68" />
+            <range source_id="16" covered="yes" start_line="28" start_column="13" end_line="28" end_column="14" />
+            <range source_id="16" covered="yes" start_line="29" start_column="9" end_line="29" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="66.67" line_coverage="100.00" blocks_covered="12" blocks_not_covered="6" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="33964" token="0x6000170" name="MoveNext()" namespace="Week06FinalAssessment.Source.Services" type_name="PaymentService.&lt;GetIsOrderPayed&gt;d__2">
+          <ranges>
+            <range source_id="17" covered="yes" start_line="22" start_column="9" end_line="22" end_column="10" />
+            <range source_id="17" covered="yes" start_line="23" start_column="13" end_line="23" end_column="81" />
+            <range source_id="17" covered="yes" start_line="24" start_column="9" end_line="24" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="66.67" line_coverage="100.00" blocks_covered="12" blocks_not_covered="6" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="34196" token="0x6000173" name="MoveNext()" namespace="Week06FinalAssessment.Source.Services" type_name="PaymentService.&lt;PayForCourse&gt;d__3">
+          <ranges>
+            <range source_id="17" covered="yes" start_line="27" start_column="9" end_line="27" end_column="10" />
+            <range source_id="17" covered="yes" start_line="28" start_column="13" end_line="28" end_column="75" />
+            <range source_id="17" covered="yes" start_line="29" start_column="9" end_line="29" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="66.67" line_coverage="100.00" blocks_covered="12" blocks_not_covered="6" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="34428" token="0x6000176" name="MoveNext()" namespace="Week06FinalAssessment.Source.Repository" type_name="CourseRepository.&lt;AddCourse&gt;d__2">
+          <ranges>
+            <range source_id="18" covered="yes" start_line="24" start_column="9" end_line="24" end_column="10" />
+            <range source_id="18" covered="yes" start_line="25" start_column="13" end_line="25" end_column="47" />
+            <range source_id="18" covered="yes" start_line="26" start_column="9" end_line="26" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="62.86" line_coverage="88.89" blocks_covered="22" blocks_not_covered="13" lines_covered="8" lines_partially_covered="0" lines_not_covered="1" id="34640" token="0x6000179" name="MoveNext()" namespace="Week06FinalAssessment.Source.Repository" type_name="CourseRepository.&lt;AddStudentToCourse&gt;d__3">
+          <ranges>
+            <range source_id="18" covered="yes" start_line="28" start_column="9" end_line="28" end_column="10" />
+            <range source_id="18" covered="yes" start_line="29" start_column="13" end_line="29" end_column="69" />
+            <range source_id="18" covered="yes" start_line="30" start_column="13" end_line="30" end_column="32" />
+            <range source_id="18" covered="yes" start_line="31" start_column="13" end_line="31" end_column="14" />
+            <range source_id="18" covered="yes" start_line="32" start_column="17" end_line="32" end_column="44" />
+            <range source_id="18" covered="yes" start_line="33" start_column="17" end_line="33" end_column="51" />
+            <range source_id="18" covered="yes" start_line="34" start_column="13" end_line="34" end_column="14" />
+            <range source_id="18" covered="no" start_line="36" start_column="17" end_line="36" end_column="90" />
+            <range source_id="18" covered="yes" start_line="38" start_column="9" end_line="38" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="77.78" line_coverage="100.00" blocks_covered="14" blocks_not_covered="4" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="35100" token="0x600017c" name="MoveNext()" namespace="Week06FinalAssessment.Source.Repository" type_name="CourseRepository.&lt;GetCourseByName&gt;d__4">
+          <ranges>
+            <range source_id="18" covered="yes" start_line="40" start_column="9" end_line="40" end_column="10" />
+            <range source_id="18" covered="yes" start_line="41" start_column="13" end_line="41" end_column="63" />
+            <range source_id="18" covered="yes" start_line="42" start_column="9" end_line="42" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="82.61" line_coverage="100.00" blocks_covered="19" blocks_not_covered="4" lines_covered="9" lines_partially_covered="0" lines_not_covered="0" id="35328" token="0x600017f" name="MoveNext()" namespace="Week06FinalAssessment.Source.Repository" type_name="CourseRepository.&lt;GetCourseStatistics&gt;d__6">
+          <ranges>
+            <range source_id="18" covered="yes" start_line="48" start_column="9" end_line="48" end_column="10" />
+            <range source_id="18" covered="yes" start_line="50" start_column="13" end_line="50" end_column="69" />
+            <range source_id="18" covered="yes" start_line="51" start_column="13" end_line="51" end_column="32" />
+            <range source_id="18" covered="yes" start_line="52" start_column="13" end_line="52" end_column="14" />
+            <range source_id="18" covered="yes" start_line="53" start_column="17" end_line="53" end_column="61" />
+            <range source_id="18" covered="yes" start_line="54" start_column="17" end_line="54" end_column="34" />
+            <range source_id="18" covered="yes" start_line="57" start_column="13" end_line="57" end_column="14" />
+            <range source_id="18" covered="yes" start_line="58" start_column="17" end_line="58" end_column="90" />
+            <range source_id="18" covered="yes" start_line="60" start_column="9" end_line="60" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="66.67" line_coverage="100.00" blocks_covered="12" blocks_not_covered="6" lines_covered="3" lines_partially_covered="0" lines_not_covered="0" id="35652" token="0x6000182" name="MoveNext()" namespace="Week06FinalAssessment.Source.Repository" type_name="CourseRepository.&lt;GetCourses&gt;d__5">
+          <ranges>
+            <range source_id="18" covered="yes" start_line="44" start_column="9" end_line="44" end_column="10" />
+            <range source_id="18" covered="yes" start_line="45" start_column="13" end_line="45" end_column="51" />
+            <range source_id="18" covered="yes" start_line="46" start_column="9" end_line="46" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="33.33" line_coverage="40.00" blocks_covered="7" blocks_not_covered="14" lines_covered="4" lines_partially_covered="0" lines_not_covered="6" id="35872" token="0x6000185" name="MoveNext()" namespace="Week06FinalAssessment.Source.Clients" type_name="DbClient.&lt;GetAllCourses&gt;d__4">
+          <ranges>
+            <range source_id="26" covered="yes" start_line="74" start_column="9" end_line="74" end_column="10" />
+            <range source_id="26" covered="yes" start_line="76" start_column="13" end_line="76" end_column="14" />
+            <range source_id="26" covered="yes" start_line="77" start_column="17" end_line="77" end_column="39" />
+            <range source_id="26" covered="no" start_line="79" start_column="42" end_line="79" end_column="72" />
+            <range source_id="26" covered="no" start_line="80" start_column="13" end_line="80" end_column="14" />
+            <range source_id="26" covered="no" start_line="81" start_column="17" end_line="81" end_column="108" />
+            <range source_id="26" covered="no" start_line="83" start_column="13" end_line="83" end_column="33" />
+            <range source_id="26" covered="no" start_line="84" start_column="13" end_line="84" end_column="14" />
+            <range source_id="26" covered="no" start_line="85" start_column="17" end_line="85" end_column="108" />
+            <range source_id="26" covered="yes" start_line="87" start_column="9" end_line="87" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="75.00" line_coverage="68.42" blocks_covered="30" blocks_not_covered="10" lines_covered="13" lines_partially_covered="0" lines_not_covered="6" id="36132" token="0x6000188" name="MoveNext()" namespace="Week06FinalAssessment.Source.Clients" type_name="DbClient.&lt;GetCourseByName&gt;d__3">
+          <ranges>
+            <range source_id="26" covered="yes" start_line="46" start_column="9" end_line="46" end_column="10" />
+            <range source_id="26" covered="yes" start_line="48" start_column="13" end_line="48" end_column="14" />
+            <range source_id="26" covered="yes" start_line="49" start_column="17" end_line="49" end_column="72" />
+            <range source_id="26" covered="yes" start_line="51" start_column="17" end_line="51" end_column="70" />
+            <range source_id="26" covered="yes" start_line="52" start_column="21" end_line="52" end_column="89" />
+            <range source_id="26" covered="yes" start_line="53" start_column="17" end_line="53" end_column="31" />
+            <range source_id="26" covered="no" start_line="55" start_column="42" end_line="55" end_column="72" />
+            <range source_id="26" covered="no" start_line="56" start_column="13" end_line="56" end_column="14" />
+            <range source_id="26" covered="no" start_line="57" start_column="17" end_line="57" end_column="115" />
+            <range source_id="26" covered="yes" start_line="59" start_column="45" end_line="59" end_column="78" />
+            <range source_id="26" covered="yes" start_line="60" start_column="13" end_line="60" end_column="14" />
+            <range source_id="26" covered="yes" start_line="61" start_column="17" end_line="61" end_column="64" />
+            <range source_id="26" covered="yes" start_line="63" start_column="46" end_line="63" end_column="80" />
+            <range source_id="26" covered="yes" start_line="64" start_column="13" end_line="64" end_column="14" />
+            <range source_id="26" covered="yes" start_line="65" start_column="17" end_line="65" end_column="65" />
+            <range source_id="26" covered="no" start_line="67" start_column="13" end_line="67" end_column="33" />
+            <range source_id="26" covered="no" start_line="68" start_column="13" end_line="68" end_column="14" />
+            <range source_id="26" covered="no" start_line="69" start_column="17" end_line="69" end_column="115" />
+            <range source_id="26" covered="yes" start_line="71" start_column="9" end_line="71" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="67.74" line_coverage="60.00" blocks_covered="21" blocks_not_covered="10" lines_covered="9" lines_partially_covered="0" lines_not_covered="6" id="36672" token="0x600018b" name="MoveNext()" namespace="Week06FinalAssessment.Source.Clients" type_name="DbClient.&lt;SaveCourse&gt;d__2">
+          <ranges>
+            <range source_id="26" covered="yes" start_line="24" start_column="9" end_line="24" end_column="10" />
+            <range source_id="26" covered="yes" start_line="26" start_column="13" end_line="26" end_column="14" />
+            <range source_id="26" covered="yes" start_line="27" start_column="17" end_line="27" end_column="64" />
+            <range source_id="26" covered="yes" start_line="29" start_column="17" end_line="29" end_column="58" />
+            <range source_id="26" covered="yes" start_line="30" start_column="13" end_line="30" end_column="14" />
+            <range source_id="26" covered="no" start_line="31" start_column="42" end_line="31" end_column="72" />
+            <range source_id="26" covered="no" start_line="32" start_column="13" end_line="32" end_column="14" />
+            <range source_id="26" covered="no" start_line="33" start_column="17" end_line="33" end_column="106" />
+            <range source_id="26" covered="yes" start_line="35" start_column="46" end_line="35" end_column="80" />
+            <range source_id="26" covered="yes" start_line="36" start_column="13" end_line="36" end_column="14" />
+            <range source_id="26" covered="yes" start_line="37" start_column="17" end_line="37" end_column="65" />
+            <range source_id="26" covered="no" start_line="39" start_column="13" end_line="39" end_column="33" />
+            <range source_id="26" covered="no" start_line="40" start_column="13" end_line="40" end_column="14" />
+            <range source_id="26" covered="no" start_line="41" start_column="17" end_line="41" end_column="101" />
+            <range source_id="26" covered="yes" start_line="43" start_column="9" end_line="43" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="86.84" line_coverage="76.92" blocks_covered="33" blocks_not_covered="5" lines_covered="10" lines_partially_covered="0" lines_not_covered="3" id="37036" token="0x600018e" name="MoveNext()" namespace="Week06FinalAssessment.Source.Clients" type_name="EmailClient.&lt;SendNotification&gt;d__0">
+          <ranges>
+            <range source_id="28" covered="yes" start_line="15" start_column="9" end_line="15" end_column="10" />
+            <range source_id="28" covered="yes" start_line="17" start_column="13" end_line="17" end_column="14" />
+            <range source_id="28" covered="yes" start_line="18" start_column="17" end_line="18" end_column="82" />
+            <range source_id="28" covered="yes" start_line="20" start_column="17" end_line="20" end_column="89" />
+            <range source_id="28" covered="yes" start_line="21" start_column="17" end_line="21" end_column="39" />
+            <range source_id="28" covered="yes" start_line="22" start_column="13" end_line="22" end_column="14" />
+            <range source_id="28" covered="yes" start_line="23" start_column="46" end_line="23" end_column="80" />
+            <range source_id="28" covered="yes" start_line="24" start_column="13" end_line="24" end_column="14" />
+            <range source_id="28" covered="yes" start_line="25" start_column="17" end_line="25" end_column="65" />
+            <range source_id="28" covered="no" start_line="27" start_column="13" end_line="27" end_column="33" />
+            <range source_id="28" covered="no" start_line="28" start_column="13" end_line="28" end_column="14" />
+            <range source_id="28" covered="no" start_line="29" start_column="17" end_line="29" end_column="106" />
+            <range source_id="28" covered="yes" start_line="31" start_column="9" end_line="31" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="71.43" line_coverage="72.73" blocks_covered="25" blocks_not_covered="10" lines_covered="8" lines_partially_covered="0" lines_not_covered="3" id="37452" token="0x6000191" name="MoveNext()" namespace="Week06FinalAssessment.Source.Clients" type_name="FinancialApiClient.&lt;CheckPaymentStatus&gt;d__0">
+          <ranges>
+            <range source_id="29" covered="yes" start_line="16" start_column="9" end_line="16" end_column="10" />
+            <range source_id="29" covered="yes" start_line="18" start_column="13" end_line="18" end_column="14" />
+            <range source_id="29" covered="yes" start_line="19" start_column="17" end_line="19" end_column="123" />
+            <range source_id="29" covered="yes" start_line="20" start_column="17" end_line="20" end_column="52" />
+            <range source_id="29" covered="yes" start_line="22" start_column="46" end_line="22" end_column="80" />
+            <range source_id="29" covered="yes" start_line="23" start_column="13" end_line="23" end_column="14" />
+            <range source_id="29" covered="yes" start_line="24" start_column="17" end_line="24" end_column="65" />
+            <range source_id="29" covered="no" start_line="26" start_column="13" end_line="26" end_column="33" />
+            <range source_id="29" covered="no" start_line="27" start_column="13" end_line="27" end_column="14" />
+            <range source_id="29" covered="no" start_line="28" start_column="17" end_line="28" end_column="112" />
+            <range source_id="29" covered="yes" start_line="30" start_column="9" end_line="30" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="71.43" line_coverage="72.73" blocks_covered="25" blocks_not_covered="10" lines_covered="8" lines_partially_covered="0" lines_not_covered="3" id="37872" token="0x6000194" name="MoveNext()" namespace="Week06FinalAssessment.Source.Clients" type_name="FinancialApiClient.&lt;PayForCourse&gt;d__1">
+          <ranges>
+            <range source_id="29" covered="yes" start_line="33" start_column="9" end_line="33" end_column="10" />
+            <range source_id="29" covered="yes" start_line="35" start_column="13" end_line="35" end_column="14" />
+            <range source_id="29" covered="yes" start_line="36" start_column="17" end_line="36" end_column="123" />
+            <range source_id="29" covered="yes" start_line="37" start_column="17" end_line="37" end_column="52" />
+            <range source_id="29" covered="yes" start_line="39" start_column="46" end_line="39" end_column="80" />
+            <range source_id="29" covered="yes" start_line="40" start_column="13" end_line="40" end_column="14" />
+            <range source_id="29" covered="yes" start_line="41" start_column="17" end_line="41" end_column="65" />
+            <range source_id="29" covered="no" start_line="43" start_column="13" end_line="43" end_column="33" />
+            <range source_id="29" covered="no" start_line="44" start_column="13" end_line="44" end_column="14" />
+            <range source_id="29" covered="no" start_line="45" start_column="17" end_line="45" end_column="107" />
+            <range source_id="29" covered="yes" start_line="47" start_column="9" end_line="47" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="86.84" line_coverage="76.92" blocks_covered="33" blocks_not_covered="5" lines_covered="10" lines_partially_covered="0" lines_not_covered="3" id="38292" token="0x6000197" name="MoveNext()" namespace="Week06FinalAssessment.Source.Clients" type_name="PushNotificationClient.&lt;SendNotification&gt;d__0">
+          <ranges>
+            <range source_id="30" covered="yes" start_line="16" start_column="9" end_line="16" end_column="10" />
+            <range source_id="30" covered="yes" start_line="18" start_column="13" end_line="18" end_column="14" />
+            <range source_id="30" covered="yes" start_line="19" start_column="17" end_line="19" end_column="82" />
+            <range source_id="30" covered="yes" start_line="21" start_column="17" end_line="21" end_column="88" />
+            <range source_id="30" covered="yes" start_line="22" start_column="17" end_line="22" end_column="39" />
+            <range source_id="30" covered="yes" start_line="23" start_column="13" end_line="23" end_column="14" />
+            <range source_id="30" covered="yes" start_line="24" start_column="46" end_line="24" end_column="80" />
+            <range source_id="30" covered="yes" start_line="25" start_column="13" end_line="25" end_column="14" />
+            <range source_id="30" covered="yes" start_line="26" start_column="17" end_line="26" end_column="65" />
+            <range source_id="30" covered="no" start_line="28" start_column="13" end_line="28" end_column="33" />
+            <range source_id="30" covered="no" start_line="29" start_column="13" end_line="29" end_column="14" />
+            <range source_id="30" covered="no" start_line="30" start_column="17" end_line="30" end_column="112" />
+            <range source_id="30" covered="yes" start_line="32" start_column="9" end_line="32" end_column="10" />
+          </ranges>
+        </function>
+        <function block_coverage="63.16" line_coverage="100.00" blocks_covered="12" blocks_not_covered="7" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="38708" token="0x600019a" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;&gt;c__DisplayClass15_0.&lt;&lt;GetCourseByName_EmptyCourseName_ThrowsArgumentNullException&gt;b__1&gt;d">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="153" start_column="74" end_line="153" end_column="127" />
+          </ranges>
+        </function>
+        <function block_coverage="63.16" line_coverage="100.00" blocks_covered="12" blocks_not_covered="7" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="38936" token="0x600019d" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;&gt;c__DisplayClass16_0.&lt;&lt;GetCourseByName_NonExistingCourseName_ThrowsKeyNotFoundException&gt;b__1&gt;d">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="164" start_column="73" end_line="164" end_column="126" />
+          </ranges>
+        </function>
+        <function block_coverage="63.16" line_coverage="100.00" blocks_covered="12" blocks_not_covered="7" lines_covered="1" lines_partially_covered="0" lines_not_covered="0" id="39164" token="0x60001a0" name="MoveNext()" namespace="Week06FinalAssessment.Test.ClientTest" type_name="DbClientTest.&lt;&gt;c__DisplayClass17_0.&lt;&lt;GetCourseByName_DbClientException_ThrowsDbClientException&gt;b__1&gt;d">
+          <ranges>
+            <range source_id="12" covered="yes" start_line="176" start_column="83" end_line="176" end_column="136" />
+          </ranges>
+        </function>
+      </functions>
+      <skipped_functions />
+      <source_files>
+        <source_file id="0" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Program.cs" checksum_type="SHA256" checksum="0061503187B2A8A0823C30B4D9FAA0C43D55DAADDD90E15D947D1819DFDF5E7C" />
+        <source_file id="1" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ServiceTest\CourseServiceTest.cs" checksum_type="SHA256" checksum="7A353754AEE8C7EE61383B99CC78498A82B7B184076C7D2BF394F65000AB91C1" />
+        <source_file id="2" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ServiceTest\PaymentServiceTest.cs" checksum_type="SHA256" checksum="515775ECFFB32A52F1593BD0E7B064EC88EEC5537890CB8D6DB9891A82DD0FCD" />
+        <source_file id="3" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ServiceTest\NotificationServiceTest.cs" checksum_type="SHA256" checksum="6F1026963AF5B6231B2C5CFA195903C3F114706DC36FC701DD3E0286B543B31A" />
+        <source_file id="4" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\RepositoryTest\CourseRepositoryTest.cs" checksum_type="SHA256" checksum="FE2351DAACBEE25FEBF92B7A9113DF0CEFAAD3249B6F7AB6C23E1D8994250908" />
+        <source_file id="5" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ModelTest\CourseStatisticTest.cs" checksum_type="SHA256" checksum="98596C300A068D39F673A4FFD8C47C1F0F28DF71B8C96F9AA01661B9A3D20189" />
+        <source_file id="6" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ModelTest\CourseTest.cs" checksum_type="SHA256" checksum="C402A897134AA1FCF874F7ED1B929BC510566063003A5A29D9F947090610B301" />
+        <source_file id="7" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ModelTest\LecturerTest.cs" checksum_type="SHA256" checksum="12C95EF7F77DBAA3AB67E985737960AE27D044C6D3202A555F6674B71AAC274D" />
+        <source_file id="8" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ModelTest\StudentManagerTest.cs" checksum_type="SHA256" checksum="073AFF0D483754FC1EC67AAA92421C6FEE8BB70F131494924A412FA52DE582C3" />
+        <source_file id="9" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ModelTest\StudentTest.cs" checksum_type="SHA256" checksum="41997A7A78C793BE97108C919DE8E0AC7F2C2151A07FF253FABCAD7DCAE29E92" />
+        <source_file id="10" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ModelTest\PersonTest.cs" checksum_type="SHA256" checksum="BCDE9D710D189CB3CA2356A7D05BE8B0B6174D387E90294A5C243570459E8CF6" />
+        <source_file id="11" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ClientTest\FinancialApiClientTest.cs" checksum_type="SHA256" checksum="70309694B45E46855D0FF81F82D87087C07406C98A04B0B7DD2768148FFD2C02" />
+        <source_file id="12" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ClientTest\DbClientTest.cs" checksum_type="SHA256" checksum="3DFEF975B25C8515256D810D516713F755DA621ED32B1940EBF3C0D81CEE0B2A" />
+        <source_file id="13" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ClientTest\EmailClientTest.cs" checksum_type="SHA256" checksum="02581C35DEB8F24EF404821BB92E3919EE7C8C29F5FC836F2D7A8DCFFB31158F" />
+        <source_file id="14" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Test\ClientTest\PushNotificationClientTest.cs" checksum_type="SHA256" checksum="B9D1D772689CC5D6CED5D533AAD093AD7E4523B0D2CEEC0593DFA95D02326EF0" />
+        <source_file id="15" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Services\CourseService.cs" checksum_type="SHA256" checksum="5EE6E6C61557FBE6E049032C7039754BB801672B9D6B808895530BCCB2421A0C" />
+        <source_file id="16" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Services\NotificationService.cs" checksum_type="SHA256" checksum="8D4E5570B1F4F102FBD91E5A3257DD27364A63F1585C4341CA041D1C29CC6646" />
+        <source_file id="17" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Services\PaymentService.cs" checksum_type="SHA256" checksum="1BB9C7E081237248F15134080EFECE56CD9C8BA2C47E604BDA0FD88ED26876EB" />
+        <source_file id="18" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Repository\CourseRepository.cs" checksum_type="SHA256" checksum="B00801AC279F3664A7BBBD6F220F2D0EE1725C5E4720E266245CC148D8BE9702" />
+        <source_file id="19" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Models\Course.cs" checksum_type="SHA256" checksum="423346024415835BAE7497BDEE31E9C3E2EEAFA190346B1443EF65E168E448EC" />
+        <source_file id="20" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Models\CourseStatistic.cs" checksum_type="SHA256" checksum="8A52A464C31415AF21F0192F85D935BD5FDDAF898A028113AC70800CFF73E5F2" />
+        <source_file id="21" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Models\Lecturer.cs" checksum_type="SHA256" checksum="736A7CCC0CD54EE4DE5A2A4CF05B41659FB4019EEBA684AB401C685253B154CF" />
+        <source_file id="22" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Models\Person.cs" checksum_type="SHA256" checksum="546AA2650992AE72E1D4B4522B5DCB7A40591AF7CCD41481CF79384ADA95A648" />
+        <source_file id="23" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Models\Student.cs" checksum_type="SHA256" checksum="19734DF5BE413FC80FEB300E2927CF91EA8B8AB3955E32D40C430D46EC684909" />
+        <source_file id="24" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Models\StudentManager.cs" checksum_type="SHA256" checksum="3C86F252BEC8277FDE4EE9674BB5A8C92B6EE526BDC1E56BD388F457C023F6E3" />
+        <source_file id="25" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Exceptions\DbClientException.cs" checksum_type="SHA256" checksum="025B25D1C13A46149ABDF93FD8C173306F8CE229D8F6AF57C04F12FA8ADAF401" />
+        <source_file id="26" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Clients\DbClient.cs" checksum_type="SHA256" checksum="00D7EE01083F54D76EA564070C1248F87D1C840103AD04491B0343E709106B51" />
+        <source_file id="27" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Clients\Validator\ClientValidator.cs" checksum_type="SHA256" checksum="371183F5BB24DC5901725D69211787CA2839AAF2D0C21D13A9D8E9A73956B9FB" />
+        <source_file id="28" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Clients\EmailClient.cs" checksum_type="SHA256" checksum="1BEAA414E506AC3340AA38E83ABF604BC636E0F629AF6B6A4E3E622CBFDAA7B5" />
+        <source_file id="29" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Clients\FinancialApiClient.cs" checksum_type="SHA256" checksum="452969000996A55FEB8AE6044745245B778391DA12A0FD839E0F74A799D14D31" />
+        <source_file id="30" path="C:\Users\laczkovszki.gergo\Desktop\Cubix\Week06\Week06FinalAssessment\Source\Clients\PushNotificationClient.cs" checksum_type="SHA256" checksum="887E9E5FBF0AB05A9F5BFD960A3AF0CEE47824D1B688EFB857FABB3C37457471" />
+      </source_files>
+    </module>
+  </modules>
+  <skipped_modules>
+    <skipped_module name="castle.core.dll" path="castle.core.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.cci.dll" path="microsoft.cci.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.codecoverage.core.dll" path="microsoft.codecoverage.core.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.codecoverage.instrumentation.dll" path="microsoft.codecoverage.instrumentation.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.codecoverage.interprocess.dll" path="microsoft.codecoverage.interprocess.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.diasymreader.dll" path="microsoft.diasymreader.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.testplatform.communicationutilities.dll" path="microsoft.testplatform.communicationutilities.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.testplatform.coreutilities.dll" path="microsoft.testplatform.coreutilities.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.testplatform.crossplatengine.dll" path="microsoft.testplatform.crossplatengine.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.testplatform.extensions.blamedatacollector.dll" path="microsoft.testplatform.extensions.blamedatacollector.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.testplatform.extensions.eventlogcollector.dll" path="microsoft.testplatform.extensions.eventlogcollector.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.testplatform.platformabstractions.dll" path="microsoft.testplatform.platformabstractions.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.testplatform.testhostruntimeprovider.dll" path="microsoft.testplatform.testhostruntimeprovider.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.architecturetools.pereader.dll" path="microsoft.visualstudio.architecturetools.pereader.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.fakes.datacollector.dll" path="microsoft.visualstudio.fakes.datacollector.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.javascript.common.dll" path="microsoft.visualstudio.javascript.common.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.javascript.testadapter.dll" path="microsoft.visualstudio.javascript.testadapter.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.qualitytools.common.dll" path="microsoft.visualstudio.qualitytools.common.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.qualitytools.unittestframework.dll" path="microsoft.visualstudio.qualitytools.unittestframework.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testplatform.common.dll" path="microsoft.visualstudio.testplatform.common.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testplatform.extensions.codedwebtestadapter.dll" path="microsoft.visualstudio.testplatform.extensions.codedwebtestadapter.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testplatform.extensions.html.testlogger.dll" path="microsoft.visualstudio.testplatform.extensions.html.testlogger.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testplatform.extensions.tmiadapter.dll" path="microsoft.visualstudio.testplatform.extensions.tmiadapter.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testplatform.extensions.trx.testlogger.dll" path="microsoft.visualstudio.testplatform.extensions.trx.testlogger.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testplatform.extensions.vstestintegration.dll" path="microsoft.visualstudio.testplatform.extensions.vstestintegration.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testplatform.extensions.webtestadapter.dll" path="microsoft.visualstudio.testplatform.extensions.webtestadapter.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testplatform.objectmodel.dll" path="microsoft.visualstudio.testplatform.objectmodel.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testtools.cppunittestframework.cominterfaces.dll" path="microsoft.visualstudio.testtools.cppunittestframework.cominterfaces.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testtools.cppunittestframework.cppunittestextension.dll" path="microsoft.visualstudio.testtools.cppunittestframework.cppunittestextension.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testtools.datacollection.mediarecorder.model.dll" path="microsoft.visualstudio.testtools.datacollection.mediarecorder.model.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.testtools.datacollection.videorecordercollector.dll" path="microsoft.visualstudio.testtools.datacollection.videorecordercollector.dll" reason="path_is_excluded" />
+    <skipped_module name="microsoft.visualstudio.tracedatacollector.dll" path="microsoft.visualstudio.tracedatacollector.dll" reason="path_is_excluded" />
+    <skipped_module name="mono.cecil.dll" path="mono.cecil.dll" reason="path_is_excluded" />
+    <skipped_module name="mono.cecil.pdb.dll" path="mono.cecil.pdb.dll" reason="path_is_excluded" />
+    <skipped_module name="mono.cecil.rocks.dll" path="mono.cecil.rocks.dll" reason="path_is_excluded" />
+    <skipped_module name="moq.dll" path="moq.dll" reason="path_is_excluded" />
+    <skipped_module name="mscorlib.dll" path="mscorlib.dll" reason="path_is_excluded" />
+    <skipped_module name="mscorlib.resources.dll" path="mscorlib.resources.dll" reason="path_is_excluded" />
+    <skipped_module name="netstandard.dll" path="netstandard.dll" reason="path_is_excluded" />
+    <skipped_module name="newtonsoft.json.dll" path="newtonsoft.json.dll" reason="path_is_excluded" />
+    <skipped_module name="nunit.engine.api.dll" path="nunit.engine.api.dll" reason="path_is_excluded" />
+    <skipped_module name="nunit.engine.core.dll" path="nunit.engine.core.dll" reason="path_is_excluded" />
+    <skipped_module name="nunit.engine.dll" path="nunit.engine.dll" reason="path_is_excluded" />
+    <skipped_module name="nunit.framework.dll" path="nunit.framework.dll" reason="path_is_excluded" />
+    <skipped_module name="nunit.framework.legacy.dll" path="nunit.framework.legacy.dll" reason="path_is_excluded" />
+    <skipped_module name="nunit3.testadapter.dll" path="nunit3.testadapter.dll" reason="path_is_excluded" />
+    <skipped_module name="smdiagnostics.dll" path="smdiagnostics.dll" reason="path_is_excluded" />
+    <skipped_module name="system.collections.dll" path="system.collections.dll" reason="path_is_excluded" />
+    <skipped_module name="system.collections.immutable.dll" path="system.collections.immutable.dll" reason="path_is_excluded" />
+    <skipped_module name="system.componentmodel.composition.dll" path="system.componentmodel.composition.dll" reason="path_is_excluded" />
+    <skipped_module name="system.configuration.dll" path="system.configuration.dll" reason="path_is_excluded" />
+    <skipped_module name="system.core.dll" path="system.core.dll" reason="path_is_excluded" />
+    <skipped_module name="system.data.dll" path="system.data.dll" reason="path_is_excluded" />
+    <skipped_module name="system.dll" path="system.dll" reason="path_is_excluded" />
+    <skipped_module name="system.numerics.dll" path="system.numerics.dll" reason="path_is_excluded" />
+    <skipped_module name="system.reflection.metadata.dll" path="system.reflection.metadata.dll" reason="path_is_excluded" />
+    <skipped_module name="system.runtime.dll" path="system.runtime.dll" reason="path_is_excluded" />
+    <skipped_module name="system.runtime.interopservices.dll" path="system.runtime.interopservices.dll" reason="path_is_excluded" />
+    <skipped_module name="system.runtime.interopservices.runtimeinformation.dll" path="system.runtime.interopservices.runtimeinformation.dll" reason="path_is_excluded" />
+    <skipped_module name="system.runtime.remoting.dll" path="system.runtime.remoting.dll" reason="path_is_excluded" />
+    <skipped_module name="system.runtime.serialization.dll" path="system.runtime.serialization.dll" reason="path_is_excluded" />
+    <skipped_module name="system.threading.tasks.extensions.dll" path="system.threading.tasks.extensions.dll" reason="path_is_excluded" />
+    <skipped_module name="system.valuetuple.dll" path="system.valuetuple.dll" reason="path_is_excluded" />
+    <skipped_module name="system.web.dll" path="system.web.dll" reason="path_is_excluded" />
+    <skipped_module name="system.xml.dll" path="system.xml.dll" reason="path_is_excluded" />
+    <skipped_module name="system.xml.linq.dll" path="system.xml.linq.dll" reason="path_is_excluded" />
+    <skipped_module name="testcentric.engine.metadata.dll" path="testcentric.engine.metadata.dll" reason="path_is_excluded" />
+    <skipped_module name="testhost.net48.exe" path="testhost.net48.exe" reason="path_is_excluded" />
+  </skipped_modules>
+</results>
